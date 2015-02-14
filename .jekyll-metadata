@@ -1,1102 +1,406 @@
 ---
-"/Users/langalex/Playground/picassol/picassol/_posts/2015-02-07-welcome-to-jekyll.markdown":
-  mtime: 2015-02-07 14:08:56.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/picassol/about.md":
-  mtime: 2015-02-07 14:08:56.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/picassol/_layouts/page.html"
-  - "/Users/langalex/Playground/picassol/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/picassol/feed.xml":
-  mtime: 2015-02-07 14:08:56.000000000 +01:00
+"/Users/langalex/Playground/picassol/_posts/2013-04-02-hello-world.md":
+  mtime: 2015-02-14 13:47:07.000000000 +01:00
   deps: []
-"/Users/langalex/Playground/picassol/picassol/index.html":
-  mtime: 2015-02-07 14:08:56.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2013-04-02-hello-world.md":
-  mtime: 2015-02-07 14:07:36.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2013-04-07-an-introduction-to-boats-that-goes-into-a-few.md":
-  mtime: 2015-02-07 14:07:36.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2013-04-10-on-hawk-we-can-reef-our-mainsail-when-sailing.md":
-  mtime: 2015-02-07 14:07:36.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2013-04-10-the-best-sail-management-ideas-for-us-come-from.md":
-  mtime: 2015-02-07 14:07:36.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2013-04-10-sails-have-to-be-manageable-by-a-single-person-on.md":
-  mtime: 2015-02-07 14:07:36.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2013-04-10-take-a-picture-of-the-interior-of-your-boat-and.md":
-  mtime: 2015-02-07 14:07:36.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2013-04-11-forty-1-a-new-open-40-design-want.md":
-  mtime: 2015-02-07 14:07:36.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2013-04-14-on-charter-boats.md":
-  mtime: 2015-02-07 14:07:36.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2013-04-18-photos-from-the-2013-americas-cup-world-series-in.md":
-  mtime: 2015-02-07 14:07:36.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2013-04-19-americas-cup-world-series-2013-naples-day-2.md":
-  mtime: 2015-02-07 14:07:36.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2013-04-22-americas-cup-world-series-in-naples.md":
-  mtime: 2015-02-07 14:07:36.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2013-05-02-an-introduction-to-boats-part-2.md":
-  mtime: 2015-02-07 14:07:36.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2013-05-05-start-of-the-2012-vendee-globe.md":
-  mtime: 2015-02-07 14:07:36.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2013-05-05-americas-cup-world-series-naples-highlights.md":
-  mtime: 2015-02-07 14:07:36.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2013-05-09-only-200-people-have-sailed-solo-around-the-world.md":
-  mtime: 2015-02-07 14:07:36.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2013-05-09-waterworld.md":
-  mtime: 2015-02-07 14:07:36.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2013-05-12-the-restoration-of-glissando.md":
-  mtime: 2015-02-07 14:07:36.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2013-05-12-sails.md":
-  mtime: 2015-02-07 14:07:36.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2013-05-20-planning-time.md":
-  mtime: 2015-02-07 14:07:36.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2013-05-21-just-came-in-with-the-mail.md":
-  mtime: 2015-02-07 14:07:36.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2013-05-24-new-desktop-wallpaper-a-pogo-open-40.md":
-  mtime: 2015-02-07 14:07:36.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2013-05-25-hull-1-of-the-pogo-50.md":
-  mtime: 2015-02-07 14:07:36.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2013-05-26-sponsoring.md":
-  mtime: 2015-02-07 14:07:36.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2013-05-26-a-one-year-subscription-for-the-blue-water-sailing.md":
-  mtime: 2015-02-07 14:07:36.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2013-06-24-worlds-fastest-sailboat.md":
-  mtime: 2015-02-07 14:07:36.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2013-07-02-the-voyagers-handbook.md":
-  mtime: 2015-02-07 14:07:36.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2013-07-05-essential-shipboard-references.md":
-  mtime: 2015-02-07 14:07:36.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2013-07-10-building-a-carbon-fiber-hull-with-vacuum-infusion.md":
-  mtime: 2015-02-07 14:07:36.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2013-07-12-3d-printing.md":
-  mtime: 2015-02-07 14:07:36.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2013-07-14-refurbishing-the-hallberg-rassy-46-regina-laska.md":
-  mtime: 2015-02-07 14:07:36.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2013-07-20-apps-apps-apps.md":
-  mtime: 2015-02-07 14:07:36.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2013-08-12-carbon-fiber.md":
-  mtime: 2015-02-07 14:07:36.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2013-09-02-httpanasaziracingblogspotde201309antal-floating-jib-ringhtml.md":
-  mtime: 2015-02-07 14:07:36.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2013-09-03-croatia-sailing-trip.md":
-  mtime: 2015-02-07 14:07:36.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2013-09-03-interview-with-the-anasazi-crew-on-the-sailing.md":
-  mtime: 2015-02-07 14:07:15.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2013-09-15-power-on-board.md":
-  mtime: 2015-02-07 14:07:15.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2013-11-03-a-self-made-film-by-the-anarchist-yacht-club-about.md":
-  mtime: 2015-02-07 14:07:15.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2013-11-08-how-sails-are-made.md":
-  mtime: 2015-02-07 14:07:15.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2013-11-08-the-tech-behind-the-worlds-largest-mast-de.md":
-  mtime: 2015-02-07 14:07:15.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2013-11-11-the-first-vo65-for-the-volvo-ocean-race-2014-is.md":
-  mtime: 2015-02-07 14:07:15.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2013-11-12-a-tour-around-skip-novaks-high-latitude.md":
-  mtime: 2015-02-07 14:07:15.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2013-11-14-first-look-at-the-pogo-30-this-boat-planes-at.md":
-  mtime: 2015-02-07 14:07:15.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2013-11-15-heres-another-video-of-the-new-pogo-30-from-what.md":
-  mtime: 2015-02-07 14:07:15.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2013-11-15-ok-one-more-pogo-30-video-this-one-has-the.md":
-  mtime: 2015-02-07 14:07:15.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2013-11-16-barcelona-boats.md":
-  mtime: 2015-02-07 14:07:15.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2013-11-17-bbc-documentary-about-the-1979-fastnet-tragedy.md":
-  mtime: 2015-02-07 14:07:15.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2013-11-17-reading-corner-vendee-globe.md":
-  mtime: 2015-02-07 14:07:15.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2013-11-24-untie-the-lines.md":
-  mtime: 2015-02-07 14:07:15.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2013-11-24-beautiful-video-and-beautiful-boat.md":
-  mtime: 2015-02-07 14:07:15.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2013-11-29-imoca-in-action.md":
-  mtime: 2015-02-07 14:07:15.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2013-12-14-10-cool-rigger-tricks-to-kit-out-your-sailboat.md":
-  mtime: 2015-02-07 14:07:15.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2013-12-14-the-speeddream-team-has-posted-a-video-of-a-new.md":
-  mtime: 2015-02-07 14:07:15.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2014-01-01-video-documentary-about-the-1973-74-whitbread.md":
-  mtime: 2015-02-07 14:07:15.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2014-01-05-new-name-new-mission.md":
-  mtime: 2015-02-07 14:07:15.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2014-01-07-the-french-have-made-a-new-sailing-movie-called-en.md":
-  mtime: 2015-02-07 14:07:15.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2014-01-08-24h-with-jean-pierre-dick.md":
-  mtime: 2015-02-07 14:07:15.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2014-01-10-the-solar-panels-do-not-give-a-lot-of-power.md":
-  mtime: 2015-02-07 14:07:15.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2014-01-12-pogo-30-here-we-come.md":
-  mtime: 2015-02-07 14:07:15.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2014-01-25-team-sca-videos.md":
-  mtime: 2015-02-07 14:07:15.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2014-01-26-photos-and-impressions-from-boot-dusseldorf-2014.md":
-  mtime: 2015-02-07 14:07:15.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2014-01-31-20-minute-documentary-about-jonas-gerckens.md":
-  mtime: 2015-02-07 14:07:15.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2014-02-02-pogo-40-trip-in-april.md":
-  mtime: 2015-02-07 14:07:15.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2014-02-09-photos-from-a-cruising-trip-on-a-pogo-mini-6-50.md":
-  mtime: 2015-02-07 14:07:15.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2014-02-15-spent-the-day-watching-this-epic-2-5h-documentary.md":
-  mtime: 2015-02-07 14:07:15.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2014-02-17-under-the-bridge.md":
-  mtime: 2015-02-07 14:07:15.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2014-02-23-between-places-sailing-climbing-skiing.md":
-  mtime: 2015-02-07 14:07:15.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2014-03-10-mini-transat-2013-on-a-proto-first-time-ive.md":
-  mtime: 2015-02-07 14:07:15.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2014-03-12-the-fixable-yacht.md":
-  mtime: 2015-02-07 14:07:15.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2014-03-13-setting-up-a-jury-rig.md":
-  mtime: 2015-02-07 14:07:15.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2014-03-20-watch-maidentrip.md":
-  mtime: 2015-02-07 14:07:15.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2014-04-04-new-sailing-pants.md":
-  mtime: 2015-02-07 14:07:15.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2014-04-11-solar-cells-in-the-main.md":
-  mtime: 2015-02-07 14:07:15.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2014-04-24-sortie-en-mer.md":
-  mtime: 2015-02-07 14:07:15.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2014-04-26-pogo-40.md":
-  mtime: 2015-02-07 14:07:15.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2014-05-05-video-of-our-trip-on-a-pogo-40-in-april-2014.md":
-  mtime: 2015-02-07 14:07:15.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2014-05-10-the-anasazi-crew-have-been-uploading-quite-a-few.md":
-  mtime: 2015-02-07 14:07:15.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2014-05-14-a-short-documentary-about-david-welsford-who-has.md":
-  mtime: 2015-02-07 14:07:15.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2014-05-25-a-face-mask-with-an-integrated-snorkel-for-easier.md":
-  mtime: 2015-02-07 14:07:15.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2014-05-26-transparent-dingy-anyone-via.md":
-  mtime: 2015-02-07 14:07:15.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2014-06-01-watch-crew-2-0.md":
-  mtime: 2015-02-07 14:07:15.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2014-06-11-alternative-sailing-yacht-charter.md":
-  mtime: 2015-02-07 14:07:15.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2014-06-11-maiden-trip-bonus.md":
-  mtime: 2015-02-07 14:07:15.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2014-06-14-jeanneau-sun-fast-3600-looks-like-a-really-nice.md":
-  mtime: 2015-02-07 14:07:15.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2014-06-15-racing-around-the-world-alone-vendee-globe.md":
-  mtime: 2015-02-07 14:07:15.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2014-06-17-planet-ocean-full-length-film-about-the-state-of.md":
-  mtime: 2015-02-07 14:07:08.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2014-06-28-open-60-refit-great-american-iv-ready-to-sail.md":
-  mtime: 2015-02-07 14:07:08.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2014-07-03-free-piston-engine.md":
-  mtime: 2015-02-07 14:07:08.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2014-07-03-another-ocean-cleanup-project.md":
-  mtime: 2015-02-07 14:07:08.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2014-07-05-solaire-34.md":
-  mtime: 2015-02-07 14:07:08.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2014-07-08-marco-nannini-vela-daltura-offshore-sailing.md":
-  mtime: 2015-02-07 14:07:08.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2014-07-13-the-new-rm-890-nice-boat-made-from-plywood.md":
-  mtime: 2015-02-07 14:07:08.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2014-07-16-nomad-iv-worlds-fastest-cruising-yacht.md":
-  mtime: 2015-02-07 14:07:08.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2014-07-21-les-sables-les-acores-les-sables-2014.md":
-  mtime: 2015-02-07 14:07:08.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2014-07-28-the-acyd-950-made-from-plywood-looks-pretty.md":
-  mtime: 2015-02-07 14:07:08.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2014-07-29-new-boat-shoes.md":
-  mtime: 2015-02-07 14:07:08.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2014-08-03-food-for-passage.md":
-  mtime: 2015-02-07 14:07:08.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2014-08-03-building-my-own-boat.md":
-  mtime: 2015-02-07 14:07:08.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2014-08-04-how-to-lose-1-200-pounds.md":
-  mtime: 2015-02-07 14:07:08.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2014-08-05-five-families-prove-that-sailing-is-a-family.md":
-  mtime: 2015-02-07 14:07:08.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2014-08-06-dynex-dux-fiber-rigging-after-6-000-sea-miles.md":
-  mtime: 2015-02-07 14:07:08.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2014-08-07-mach-40.md":
-  mtime: 2015-02-07 14:07:08.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2014-08-28-alternative-methods-of-yacht-propulsion.md":
-  mtime: 2015-02-07 14:07:08.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2014-08-30-we-yesterday-watched-beyond-the-west-horizon-a.md":
-  mtime: 2015-02-07 14:07:08.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2014-08-30-team-concise-open-40.md":
-  mtime: 2015-02-07 14:07:08.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2014-09-05-kavu-sun-hat-good-for-sailing.md":
-  mtime: 2015-02-07 14:07:08.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2014-09-05-cultisol-the-mini-with-the-bow-from-the-inside.md":
-  mtime: 2015-02-07 14:07:08.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2014-09-08-boat-building-research-phase.md":
-  mtime: 2015-02-07 14:07:08.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2014-09-12-the-new-rm-1070-plywood-hull-lifting-keel.md":
-  mtime: 2015-02-07 14:07:08.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2014-09-23-will-we-all-be-able-to-sail-in-foiling-mode-like.md":
-  mtime: 2015-02-07 14:07:08.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2014-09-26-pretty-cool-video-from-team-sca-only-a-few-days.md":
-  mtime: 2015-02-07 14:07:08.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2014-10-04-a-drone-that-automatically-follows-you-around.md":
-  mtime: 2015-02-07 14:07:08.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2014-10-04-single-handedly-hoisting-a-spinnaker-filmed-on.md":
-  mtime: 2015-02-07 14:07:08.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2014-10-05-guy-designs-and-builds-a-tsunami-survival-boat-out.md":
-  mtime: 2015-02-07 14:07:08.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2014-10-09-cap-west-sailing-charter.md":
-  mtime: 2015-02-07 14:07:08.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2014-10-18-oceanvolt.md":
-  mtime: 2015-02-07 14:07:08.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2014-10-21-pogo-30-trip-brittany-september-2014.md":
-  mtime: 2015-02-07 14:07:08.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2014-10-23-just-discovered-sailboat-a-cute-little-sailing.md":
-  mtime: 2015-02-07 14:07:08.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2014-10-27-harryproa.md":
-  mtime: 2015-02-07 14:07:08.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2014-10-29-carpentry-workshop.md":
-  mtime: 2015-02-07 14:07:08.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2014-11-07-navigatrix-net-a-voyagers-companion.md":
-  mtime: 2015-02-07 14:07:08.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2014-11-07-no-title.md":
-  mtime: 2015-02-07 14:07:08.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2014-11-11-extending-a-catamaran-by-1-5m.md":
-  mtime: 2015-02-07 14:07:08.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2014-11-13-class-40-panoramic-view.md":
-  mtime: 2015-02-07 14:07:08.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2014-11-18-dominik-lenk-and-his-empty-mini.md":
-  mtime: 2015-02-07 14:07:08.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2014-11-25-barcelona-world-race-film.md":
-  mtime: 2015-02-07 14:07:08.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2014-12-04-dudley-dix-mini-mk3-being-built-in-dubai.md":
-  mtime: 2015-02-07 14:07:08.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2014-12-07-going-smaller-going-mini.md":
-  mtime: 2015-02-07 14:07:08.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2014-12-07-first-photo-of-the-new-pogo-36.md":
-  mtime: 2015-02-07 14:07:08.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2014-12-22-the-kit-for-building-the-eastport-pram-has.md":
-  mtime: 2015-02-07 14:07:08.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2015-01-16-banque-populaire-xiii-imoca-on-foils.md":
-  mtime: 2015-02-07 14:07:08.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2015-01-21-docking-when-short-handed.md":
-  mtime: 2015-02-07 14:07:08.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2015-01-27-360-panoramas-of-an-rm1070-at-the-salon-nautique.md":
-  mtime: 2015-02-07 14:07:08.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2015-02-06-weve-been-working-on-a-dinghy-over-the-last.md":
-  mtime: 2015-02-07 14:07:08.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2015-02-06-mini-transat-star-wars.md":
-  mtime: 2015-02-07 14:07:08.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
+"/Users/langalex/Playground/picassol/_posts/2013-04-07-an-introduction-to-boats-that-goes-into-a-few.md":
+  mtime: 2015-02-14 13:47:07.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/_posts/2013-04-10-on-hawk-we-can-reef-our-mainsail-when-sailing.md":
+  mtime: 2015-02-14 13:47:07.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/_posts/2013-04-10-sails-have-to-be-manageable-by-a-single-person-on.md":
+  mtime: 2015-02-14 13:47:07.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/_posts/2013-04-10-take-a-picture-of-the-interior-of-your-boat-and.md":
+  mtime: 2015-02-14 13:47:07.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/_posts/2013-04-10-the-best-sail-management-ideas-for-us-come-from.md":
+  mtime: 2015-02-14 13:47:07.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/_posts/2013-04-11-forty-1-a-new-open-40-design-want.md":
+  mtime: 2015-02-14 13:47:07.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/_posts/2013-04-14-on-charter-boats.md":
+  mtime: 2015-02-14 13:47:07.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/_posts/2013-04-18-photos-from-the-2013-americas-cup-world-series-in.md":
+  mtime: 2015-02-14 13:47:07.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/_posts/2013-04-19-americas-cup-world-series-2013-naples-day-2.md":
+  mtime: 2015-02-14 13:47:07.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/_posts/2013-04-22-americas-cup-world-series-in-naples.md":
+  mtime: 2015-02-14 13:47:07.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/_posts/2013-05-02-an-introduction-to-boats-part-2.md":
+  mtime: 2015-02-14 13:47:07.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/_posts/2013-05-05-americas-cup-world-series-naples-highlights.md":
+  mtime: 2015-02-14 13:47:07.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/_posts/2013-05-05-start-of-the-2012-vendee-globe.md":
+  mtime: 2015-02-14 13:47:07.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/_posts/2013-05-09-only-200-people-have-sailed-solo-around-the-world.md":
+  mtime: 2015-02-14 13:47:07.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/_posts/2013-05-09-waterworld.md":
+  mtime: 2015-02-14 13:47:07.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/_posts/2013-05-12-sails.md":
+  mtime: 2015-02-14 13:47:07.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/_posts/2013-05-12-the-restoration-of-glissando.md":
+  mtime: 2015-02-14 13:47:07.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/_posts/2013-05-20-planning-time.md":
+  mtime: 2015-02-14 13:47:07.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/_posts/2013-05-21-just-came-in-with-the-mail.md":
+  mtime: 2015-02-14 13:47:07.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/_posts/2013-05-24-new-desktop-wallpaper-a-pogo-open-40.md":
+  mtime: 2015-02-14 13:47:07.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/_posts/2013-05-25-hull-1-of-the-pogo-50.md":
+  mtime: 2015-02-14 13:47:07.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/_posts/2013-05-26-a-one-year-subscription-for-the-blue-water-sailing.md":
+  mtime: 2015-02-14 13:47:07.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/_posts/2013-05-26-sponsoring.md":
+  mtime: 2015-02-14 13:47:07.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/_posts/2013-06-24-worlds-fastest-sailboat.md":
+  mtime: 2015-02-14 13:47:07.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/_posts/2013-07-02-the-voyagers-handbook.md":
+  mtime: 2015-02-14 13:47:07.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/_posts/2013-07-05-essential-shipboard-references.md":
+  mtime: 2015-02-14 13:47:07.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/_posts/2013-07-10-building-a-carbon-fiber-hull-with-vacuum-infusion.md":
+  mtime: 2015-02-14 13:47:07.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/_posts/2013-07-12-3d-printing.md":
+  mtime: 2015-02-14 13:47:07.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/_posts/2013-07-14-refurbishing-the-hallberg-rassy-46-regina-laska.md":
+  mtime: 2015-02-14 13:47:07.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/_posts/2013-07-20-apps-apps-apps.md":
+  mtime: 2015-02-14 13:47:07.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/_posts/2013-08-12-carbon-fiber.md":
+  mtime: 2015-02-14 13:47:07.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/_posts/2013-09-02-.md":
+  mtime: 2015-02-14 13:47:07.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/_posts/2013-09-02-croatia-sailing-trip.md":
+  mtime: 2015-02-14 13:47:07.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/_posts/2013-09-03-interview-with-the-anasazi-crew-on-the-sailing.md":
+  mtime: 2015-02-14 13:47:07.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/_posts/2013-09-15-power-on-board.md":
+  mtime: 2015-02-14 13:47:07.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/_posts/2013-11-03-a-self-made-film-by-the-anarchist-yacht-club-about.md":
+  mtime: 2015-02-14 13:47:07.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/_posts/2013-11-08-how-sails-are-made.md":
+  mtime: 2015-02-14 13:47:07.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/_posts/2013-11-08-the-tech-behind-the-worlds-largest-mast-de.md":
+  mtime: 2015-02-14 13:47:07.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/_posts/2013-11-11-the-first-vo65-for-the-volvo-ocean-race-2014-is.md":
+  mtime: 2015-02-14 13:47:07.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/_posts/2013-11-12-a-tour-around-skip-novaks-high-latitude.md":
+  mtime: 2015-02-14 13:47:07.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/_posts/2013-11-13-first-look-at-the-pogo-30-this-boat-planes-at.md":
+  mtime: 2015-02-14 13:47:07.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/_posts/2013-11-15-heres-another-video-of-the-new-pogo-30-from-what.md":
+  mtime: 2015-02-14 13:47:07.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/_posts/2013-11-15-ok-one-more-pogo-30-video-this-one-has-the.md":
+  mtime: 2015-02-14 13:47:07.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/_posts/2013-11-16-barcelona-boats.md":
+  mtime: 2015-02-14 13:47:07.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/_posts/2013-11-16-bbc-documentary-about-the-1979-fastnet-tragedy.md":
+  mtime: 2015-02-14 13:47:07.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/_posts/2013-11-17-reading-corner-vendee-globe.md":
+  mtime: 2015-02-14 13:47:07.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/_posts/2013-11-24-beautiful-video-and-beautiful-boat.md":
+  mtime: 2015-02-14 13:47:07.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/_posts/2013-11-24-untie-the-lines.md":
+  mtime: 2015-02-14 13:47:07.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/_posts/2013-11-29-imoca-in-action.md":
+  mtime: 2015-02-14 13:47:07.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/_posts/2013-12-14-10-cool-rigger-tricks-to-kit-out-your-sailboat.md":
+  mtime: 2015-02-14 13:47:07.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/_posts/2013-12-14-the-speeddream-team-has-posted-a-video-of-a-new.md":
+  mtime: 2015-02-14 13:47:07.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/_posts/2014-01-01-video-documentary-about-the-1973-74-whitbread.md":
+  mtime: 2015-02-14 13:47:07.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/_posts/2014-01-05-new-name-new-mission.md":
+  mtime: 2015-02-14 13:47:07.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/_posts/2014-01-07-24h-with-jean-pierre-dick.md":
+  mtime: 2015-02-14 13:47:07.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/_posts/2014-01-07-the-french-have-made-a-new-sailing-movie-called-en.md":
+  mtime: 2015-02-14 13:47:07.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/_posts/2014-01-10-the-solar-panels-do-not-give-a-lot-of-power.md":
+  mtime: 2015-02-14 13:47:07.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/_posts/2014-01-12-pogo-30-here-we-come.md":
+  mtime: 2015-02-14 13:47:07.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/_posts/2014-01-25-team-sca-videos.md":
+  mtime: 2015-02-14 13:47:07.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/_posts/2014-01-26-photos-and-impressions-from-boot-dusseldorf-2014.md":
+  mtime: 2015-02-14 13:47:07.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/_posts/2014-01-31-20-minute-documentary-about-jonas-gerckens.md":
+  mtime: 2015-02-14 13:47:07.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/_posts/2014-02-02-pogo-40-trip-in-april.md":
+  mtime: 2015-02-14 13:47:07.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/_posts/2014-02-09-photos-from-a-cruising-trip-on-a-pogo-mini-6-50.md":
+  mtime: 2015-02-14 13:47:07.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/_posts/2014-02-15-spent-the-day-watching-this-epic-2-5h-documentary.md":
+  mtime: 2015-02-14 13:47:07.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/_posts/2014-02-17-under-the-bridge.md":
+  mtime: 2015-02-14 13:47:07.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/_posts/2014-02-23-between-places-sailing-climbing-skiing.md":
+  mtime: 2015-02-14 13:47:07.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/_posts/2014-03-10-mini-transat-2013-on-a-proto-first-time-ive.md":
+  mtime: 2015-02-14 13:47:07.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/_posts/2014-03-12-the-fixable-yacht.md":
+  mtime: 2015-02-14 13:47:07.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/_posts/2014-03-13-setting-up-a-jury-rig.md":
+  mtime: 2015-02-14 13:47:07.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/_posts/2014-03-20-watch-maidentrip.md":
+  mtime: 2015-02-14 13:47:07.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/_posts/2014-04-04-new-sailing-pants.md":
+  mtime: 2015-02-14 13:47:07.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/_posts/2014-04-11-solar-cells-in-the-main.md":
+  mtime: 2015-02-14 13:47:07.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/_posts/2014-04-24-sortie-en-mer.md":
+  mtime: 2015-02-14 13:47:07.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/_posts/2014-04-26-pogo-40.md":
+  mtime: 2015-02-14 13:47:07.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/_posts/2014-05-05-video-of-our-trip-on-a-pogo-40-in-april-2014.md":
+  mtime: 2015-02-14 13:47:07.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/_posts/2014-05-10-the-anasazi-crew-have-been-uploading-quite-a-few.md":
+  mtime: 2015-02-14 13:47:07.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/_posts/2014-05-14-a-short-documentary-about-david-welsford-who-has.md":
+  mtime: 2015-02-14 13:47:07.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/_posts/2014-05-25-a-face-mask-with-an-integrated-snorkel-for-easier.md":
+  mtime: 2015-02-14 13:47:07.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/_posts/2014-05-26-transparent-dingy-anyone-via.md":
+  mtime: 2015-02-14 13:47:07.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/_posts/2014-06-01-watch-crew-2-0.md":
+  mtime: 2015-02-14 13:47:07.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/_posts/2014-06-11-alternative-sailing-yacht-charter.md":
+  mtime: 2015-02-14 13:47:07.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/_posts/2014-06-11-maiden-trip-bonus.md":
+  mtime: 2015-02-14 13:47:07.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/_posts/2014-06-14-jeanneau-sun-fast-3600-looks-like-a-really-nice.md":
+  mtime: 2015-02-14 13:47:07.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/_posts/2014-06-14-racing-around-the-world-alone-vendee-globe.md":
+  mtime: 2015-02-14 13:47:07.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/_posts/2014-06-17-planet-ocean-full-length-film-about-the-state-of.md":
+  mtime: 2015-02-14 13:47:07.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/_posts/2014-06-28-open-60-refit-great-american-iv-ready-to-sail.md":
+  mtime: 2015-02-14 13:47:07.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/_posts/2014-07-03-another-ocean-cleanup-project.md":
+  mtime: 2015-02-14 13:47:07.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/_posts/2014-07-03-free-piston-engine.md":
+  mtime: 2015-02-14 13:47:07.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/_posts/2014-07-05-solaire-34.md":
+  mtime: 2015-02-14 13:47:07.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/_posts/2014-07-08-marco-nannini-vela-daltura-offshore-sailing.md":
+  mtime: 2015-02-14 13:47:07.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/_posts/2014-07-13-the-new-rm-890-nice-boat-made-from-plywood.md":
+  mtime: 2015-02-14 13:47:07.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/_posts/2014-07-16-nomad-iv-worlds-fastest-cruising-yacht.md":
+  mtime: 2015-02-14 13:47:07.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/_posts/2014-07-21-les-sables-les-acores-les-sables-2014.md":
+  mtime: 2015-02-14 13:47:07.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/_posts/2014-07-28-the-acyd-950-made-from-plywood-looks-pretty.md":
+  mtime: 2015-02-14 13:47:07.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/_posts/2014-07-29-new-boat-shoes.md":
+  mtime: 2015-02-14 13:47:07.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/_posts/2014-08-03-building-my-own-boat.md":
+  mtime: 2015-02-14 13:47:07.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/_posts/2014-08-03-food-for-passage.md":
+  mtime: 2015-02-14 13:47:07.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/_posts/2014-08-04-how-to-lose-1-200-pounds.md":
+  mtime: 2015-02-14 13:47:07.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/_posts/2014-08-05-five-families-prove-that-sailing-is-a-family.md":
+  mtime: 2015-02-14 13:47:07.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/_posts/2014-08-06-dynex-dux-fiber-rigging-after-6-000-sea-miles.md":
+  mtime: 2015-02-14 13:47:07.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/_posts/2014-08-07-mach-40.md":
+  mtime: 2015-02-14 13:47:07.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/_posts/2014-08-28-alternative-methods-of-yacht-propulsion.md":
+  mtime: 2015-02-14 13:47:07.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/_posts/2014-08-30-team-concise-open-40.md":
+  mtime: 2015-02-14 13:47:07.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/_posts/2014-08-30-we-yesterday-watched-beyond-the-west-horizon-a.md":
+  mtime: 2015-02-14 13:47:07.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/_posts/2014-09-05-cultisol-the-mini-with-the-bow-from-the-inside.md":
+  mtime: 2015-02-14 13:47:07.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/_posts/2014-09-05-kavu-sun-hat-good-for-sailing.md":
+  mtime: 2015-02-14 13:47:07.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/_posts/2014-09-08-boat-building-research-phase.md":
+  mtime: 2015-02-14 13:47:07.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/_posts/2014-09-12-the-new-rm-1070-plywood-hull-lifting-keel.md":
+  mtime: 2015-02-14 13:47:07.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/_posts/2014-09-23-will-we-all-be-able-to-sail-in-foiling-mode-like.md":
+  mtime: 2015-02-14 13:47:07.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/_posts/2014-09-26-pretty-cool-video-from-team-sca-only-a-few-days.md":
+  mtime: 2015-02-14 13:47:07.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/_posts/2014-10-04-a-drone-that-automatically-follows-you-around.md":
+  mtime: 2015-02-14 13:47:07.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/_posts/2014-10-04-single-handedly-hoisting-a-spinnaker-filmed-on.md":
+  mtime: 2015-02-14 13:47:07.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/_posts/2014-10-05-guy-designs-and-builds-a-tsunami-survival-boat-out.md":
+  mtime: 2015-02-14 13:47:07.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/_posts/2014-10-09-cap-west-sailing-charter.md":
+  mtime: 2015-02-14 13:47:07.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/_posts/2014-10-18-oceanvolt.md":
+  mtime: 2015-02-14 13:47:07.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/_posts/2014-10-21-pogo-30-trip-brittany-september-2014.md":
+  mtime: 2015-02-14 13:47:07.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/_posts/2014-10-23-just-discovered-sailboat-a-cute-little-sailing.md":
+  mtime: 2015-02-14 13:47:07.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/_posts/2014-10-27-harryproa.md":
+  mtime: 2015-02-14 13:47:07.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/_posts/2014-10-29-carpentry-workshop.md":
+  mtime: 2015-02-14 13:47:07.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/_posts/2014-11-06-navigatrix-net-a-voyagers-companion.md":
+  mtime: 2015-02-14 13:47:07.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/_posts/2014-11-07-.md":
+  mtime: 2015-02-14 13:47:07.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/_posts/2014-11-11-extending-a-catamaran-by-1-5m.md":
+  mtime: 2015-02-14 13:47:07.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/_posts/2014-11-13-class-40-panoramic-view.md":
+  mtime: 2015-02-14 13:47:07.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/_posts/2014-11-18-dominik-lenk-and-his-empty-mini.md":
+  mtime: 2015-02-14 13:47:07.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/_posts/2014-11-25-barcelona-world-race-film.md":
+  mtime: 2015-02-14 13:47:07.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/_posts/2014-12-04-dudley-dix-mini-mk3-being-built-in-dubai.md":
+  mtime: 2015-02-14 13:47:07.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/_posts/2014-12-07-first-photo-of-the-new-pogo-36.md":
+  mtime: 2015-02-14 13:47:07.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/_posts/2014-12-07-going-smaller-going-mini.md":
+  mtime: 2015-02-14 13:47:07.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/_posts/2014-12-22-the-kit-for-building-the-eastport-pram-has.md":
+  mtime: 2015-02-14 13:47:07.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/_posts/2015-01-16-banque-populaire-xiii-imoca-on-foils.md":
+  mtime: 2015-02-14 13:47:07.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/_posts/2015-01-21-docking-when-short-handed.md":
+  mtime: 2015-02-14 14:05:00.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/_posts/2015-01-27-360-panoramas-of-an-rm1070-at-the-salon-nautique.md":
+  mtime: 2015-02-14 13:47:07.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/_posts/2015-02-06-mini-transat-star-wars.md":
+  mtime: 2015-02-14 13:58:03.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/_posts/2015-02-06-weve-been-working-on-a-dinghy-over-the-last.md":
+  mtime: 2015-02-14 13:47:07.000000000 +01:00
+  deps: []
 "/Users/langalex/Playground/picassol/about.md":
   mtime: 2015-02-07 14:08:56.000000000 +01:00
   deps:
@@ -1115,119 +419,521 @@
   - "/Users/langalex/Playground/picassol/_includes/header.html"
   - "/Users/langalex/Playground/picassol/_includes/footer.html"
   - "/Users/langalex/Playground/picassol/_layouts/default.html"
+"/Users/langalex/Playground/picassol/convert_posts.rb":
+  mtime: 2015-02-14 13:46:58.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/posts_json/2013-04-02-hello-world.json":
+  mtime: 2015-02-07 15:13:10.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/posts_json/2013-04-07-an-introduction-to-boats-that-goes-into-a-few.json":
+  mtime: 2015-02-07 15:03:13.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/posts_json/2013-04-10-on-hawk-we-can-reef-our-mainsail-when-sailing.json":
+  mtime: 2015-02-07 15:39:08.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/posts_json/2013-04-10-sails-have-to-be-manageable-by-a-single-person-on.json":
+  mtime: 2015-02-07 15:03:13.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/posts_json/2013-04-10-take-a-picture-of-the-interior-of-your-boat-and.json":
+  mtime: 2015-02-07 15:03:13.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/posts_json/2013-04-10-the-best-sail-management-ideas-for-us-come-from.json":
+  mtime: 2015-02-07 15:03:13.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/posts_json/2013-04-11-forty-1-a-new-open-40-design-want.json":
+  mtime: 2015-02-07 15:03:13.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/posts_json/2013-04-14-on-charter-boats.json":
+  mtime: 2015-02-07 15:03:13.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/posts_json/2013-04-18-photos-from-the-2013-americas-cup-world-series-in.json":
+  mtime: 2015-02-07 15:03:13.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/posts_json/2013-04-19-americas-cup-world-series-2013-naples-day-2.json":
+  mtime: 2015-02-07 15:03:13.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/posts_json/2013-04-22-americas-cup-world-series-in-naples.json":
+  mtime: 2015-02-07 15:03:13.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/posts_json/2013-05-02-an-introduction-to-boats-part-2.json":
+  mtime: 2015-02-07 15:03:13.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/posts_json/2013-05-05-americas-cup-world-series-naples-highlights.json":
+  mtime: 2015-02-07 15:03:13.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/posts_json/2013-05-05-start-of-the-2012-vendee-globe.json":
+  mtime: 2015-02-07 15:03:13.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/posts_json/2013-05-09-only-200-people-have-sailed-solo-around-the-world.json":
+  mtime: 2015-02-07 15:03:13.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/posts_json/2013-05-09-waterworld.json":
+  mtime: 2015-02-07 15:03:13.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/posts_json/2013-05-12-sails.json":
+  mtime: 2015-02-07 15:03:13.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/posts_json/2013-05-12-the-restoration-of-glissando.json":
+  mtime: 2015-02-07 15:03:13.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/posts_json/2013-05-20-planning-time.json":
+  mtime: 2015-02-07 15:03:13.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/posts_json/2013-05-21-just-came-in-with-the-mail.json":
+  mtime: 2015-02-07 15:03:13.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/posts_json/2013-05-24-new-desktop-wallpaper-a-pogo-open-40.json":
+  mtime: 2015-02-07 15:03:13.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/posts_json/2013-05-25-hull-1-of-the-pogo-50.json":
+  mtime: 2015-02-07 15:03:13.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/posts_json/2013-05-26-a-one-year-subscription-for-the-blue-water-sailing.json":
+  mtime: 2015-02-07 15:03:13.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/posts_json/2013-05-26-sponsoring.json":
+  mtime: 2015-02-07 15:03:13.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/posts_json/2013-06-24-worlds-fastest-sailboat.json":
+  mtime: 2015-02-07 15:03:13.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/posts_json/2013-07-02-the-voyagers-handbook.json":
+  mtime: 2015-02-07 15:03:13.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/posts_json/2013-07-05-essential-shipboard-references.json":
+  mtime: 2015-02-07 15:03:13.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/posts_json/2013-07-10-building-a-carbon-fiber-hull-with-vacuum-infusion.json":
+  mtime: 2015-02-07 15:03:13.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/posts_json/2013-07-12-3d-printing.json":
+  mtime: 2015-02-07 15:03:13.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/posts_json/2013-07-14-refurbishing-the-hallberg-rassy-46-regina-laska.json":
+  mtime: 2015-02-07 15:03:13.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/posts_json/2013-07-20-apps-apps-apps.json":
+  mtime: 2015-02-07 15:03:13.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/posts_json/2013-08-12-carbon-fiber.json":
+  mtime: 2015-02-07 15:03:13.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/posts_json/2013-09-02-croatia-sailing-trip.json":
+  mtime: 2015-02-07 15:03:13.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/posts_json/2013-09-02-low-friction-rings.json":
+  mtime: 2015-02-07 15:05:40.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/posts_json/2013-09-03-interview-with-the-anasazi-crew-on-the-sailing.json":
+  mtime: 2015-02-07 15:03:13.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/posts_json/2013-09-15-power-on-board.json":
+  mtime: 2015-02-07 15:03:13.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/posts_json/2013-11-03-a-self-made-film-by-the-anarchist-yacht-club-about.json":
+  mtime: 2015-02-07 15:03:13.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/posts_json/2013-11-08-how-sails-are-made.json":
+  mtime: 2015-02-07 15:03:13.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/posts_json/2013-11-08-the-tech-behind-the-worlds-largest-mast-de.json":
+  mtime: 2015-02-07 15:03:13.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/posts_json/2013-11-11-the-first-vo65-for-the-volvo-ocean-race-2014-is.json":
+  mtime: 2015-02-07 15:03:13.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/posts_json/2013-11-12-a-tour-around-skip-novaks-high-latitude.json":
+  mtime: 2015-02-07 15:03:13.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/posts_json/2013-11-13-first-look-at-the-pogo-30-this-boat-planes-at.json":
+  mtime: 2015-02-07 15:03:13.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/posts_json/2013-11-15-heres-another-video-of-the-new-pogo-30-from-what.json":
+  mtime: 2015-02-07 15:03:13.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/posts_json/2013-11-15-ok-one-more-pogo-30-video-this-one-has-the.json":
+  mtime: 2015-02-07 15:03:13.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/posts_json/2013-11-16-barcelona-boats.json":
+  mtime: 2015-02-07 15:03:13.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/posts_json/2013-11-16-bbc-documentary-about-the-1979-fastnet-tragedy.json":
+  mtime: 2015-02-07 15:03:13.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/posts_json/2013-11-17-reading-corner-vendee-globe.json":
+  mtime: 2015-02-07 15:03:13.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/posts_json/2013-11-24-beautiful-video-and-beautiful-boat.json":
+  mtime: 2015-02-07 15:03:13.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/posts_json/2013-11-24-untie-the-lines.json":
+  mtime: 2015-02-07 15:03:13.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/posts_json/2013-11-29-imoca-in-action.json":
+  mtime: 2015-02-07 15:03:13.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/posts_json/2013-12-14-10-cool-rigger-tricks-to-kit-out-your-sailboat.json":
+  mtime: 2015-02-07 15:03:13.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/posts_json/2013-12-14-the-speeddream-team-has-posted-a-video-of-a-new.json":
+  mtime: 2015-02-07 15:03:13.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/posts_json/2014-01-01-video-documentary-about-the-1973-74-whitbread.json":
+  mtime: 2015-02-07 15:41:37.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/posts_json/2014-01-05-new-name-new-mission.json":
+  mtime: 2015-02-07 15:45:18.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/posts_json/2014-01-07-24h-with-jean-pierre-dick.json":
+  mtime: 2015-02-07 15:03:13.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/posts_json/2014-01-07-the-french-have-made-a-new-sailing-movie-called-en.json":
+  mtime: 2015-02-07 15:03:13.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/posts_json/2014-01-10-the-solar-panels-do-not-give-a-lot-of-power.json":
+  mtime: 2015-02-07 15:03:13.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/posts_json/2014-01-12-pogo-30-here-we-come.json":
+  mtime: 2015-02-07 15:03:13.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/posts_json/2014-01-25-team-sca-videos.json":
+  mtime: 2015-02-07 15:03:13.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/posts_json/2014-01-26-photos-and-impressions-from-boot-dusseldorf-2014.json":
+  mtime: 2015-02-07 15:03:13.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/posts_json/2014-01-31-20-minute-documentary-about-jonas-gerckens.json":
+  mtime: 2015-02-07 15:03:13.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/posts_json/2014-02-02-pogo-40-trip-in-april.json":
+  mtime: 2015-02-07 15:03:13.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/posts_json/2014-02-09-photos-from-a-cruising-trip-on-a-pogo-mini-6-50.json":
+  mtime: 2015-02-07 15:03:13.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/posts_json/2014-02-15-spent-the-day-watching-this-epic-2-5h-documentary.json":
+  mtime: 2015-02-07 15:03:13.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/posts_json/2014-02-17-under-the-bridge.json":
+  mtime: 2015-02-07 15:03:13.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/posts_json/2014-02-23-between-places-sailing-climbing-skiing.json":
+  mtime: 2015-02-07 15:03:13.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/posts_json/2014-03-10-mini-transat-2013-on-a-proto-first-time-ive.json":
+  mtime: 2015-02-07 15:03:13.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/posts_json/2014-03-12-the-fixable-yacht.json":
+  mtime: 2015-02-07 15:03:13.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/posts_json/2014-03-13-setting-up-a-jury-rig.json":
+  mtime: 2015-02-07 15:03:13.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/posts_json/2014-03-20-watch-maidentrip.json":
+  mtime: 2015-02-07 15:03:13.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/posts_json/2014-04-04-new-sailing-pants.json":
+  mtime: 2015-02-07 15:03:13.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/posts_json/2014-04-11-solar-cells-in-the-main.json":
+  mtime: 2015-02-07 15:03:13.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/posts_json/2014-04-24-sortie-en-mer.json":
+  mtime: 2015-02-07 15:03:13.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/posts_json/2014-04-26-pogo-40.json":
+  mtime: 2015-02-07 15:03:13.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/posts_json/2014-05-05-video-of-our-trip-on-a-pogo-40-in-april-2014.json":
+  mtime: 2015-02-07 15:03:13.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/posts_json/2014-05-10-the-anasazi-crew-have-been-uploading-quite-a-few.json":
+  mtime: 2015-02-07 15:03:13.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/posts_json/2014-05-14-a-short-documentary-about-david-welsford-who-has.json":
+  mtime: 2015-02-07 15:03:13.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/posts_json/2014-05-25-a-face-mask-with-an-integrated-snorkel-for-easier.json":
+  mtime: 2015-02-07 15:03:13.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/posts_json/2014-05-26-transparent-dingy-anyone-via.json":
+  mtime: 2015-02-07 15:03:13.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/posts_json/2014-06-01-watch-crew-2-0.json":
+  mtime: 2015-02-07 15:03:13.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/posts_json/2014-06-11-alternative-sailing-yacht-charter.json":
+  mtime: 2015-02-07 15:03:13.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/posts_json/2014-06-11-maiden-trip-bonus.json":
+  mtime: 2015-02-07 15:03:13.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/posts_json/2014-06-14-jeanneau-sun-fast-3600-looks-like-a-really-nice.json":
+  mtime: 2015-02-07 15:03:13.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/posts_json/2014-06-14-racing-around-the-world-alone-vendee-globe.json":
+  mtime: 2015-02-07 15:03:13.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/posts_json/2014-06-17-planet-ocean-full-length-film-about-the-state-of.json":
+  mtime: 2015-02-07 15:03:13.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/posts_json/2014-06-28-open-60-refit-great-american-iv-ready-to-sail.json":
+  mtime: 2015-02-07 15:03:13.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/posts_json/2014-07-03-another-ocean-cleanup-project.json":
+  mtime: 2015-02-07 15:03:13.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/posts_json/2014-07-03-free-piston-engine.json":
+  mtime: 2015-02-07 15:03:13.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/posts_json/2014-07-05-solaire-34.json":
+  mtime: 2015-02-07 15:03:13.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/posts_json/2014-07-08-marco-nannini-vela-daltura-offshore-sailing.json":
+  mtime: 2015-02-07 15:03:13.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/posts_json/2014-07-13-the-new-rm-890-nice-boat-made-from-plywood.json":
+  mtime: 2015-02-07 15:03:13.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/posts_json/2014-07-16-nomad-iv-worlds-fastest-cruising-yacht.json":
+  mtime: 2015-02-07 15:03:13.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/posts_json/2014-07-21-les-sables-les-acores-les-sables-2014.json":
+  mtime: 2015-02-07 15:03:13.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/posts_json/2014-07-28-the-acyd-950-made-from-plywood-looks-pretty.json":
+  mtime: 2015-02-07 15:03:13.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/posts_json/2014-07-29-new-boat-shoes.json":
+  mtime: 2015-02-07 15:03:13.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/posts_json/2014-08-03-building-my-own-boat.json":
+  mtime: 2015-02-07 15:03:13.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/posts_json/2014-08-03-food-for-passage.json":
+  mtime: 2015-02-07 15:03:13.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/posts_json/2014-08-04-how-to-lose-1-200-pounds.json":
+  mtime: 2015-02-07 15:03:13.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/posts_json/2014-08-05-five-families-prove-that-sailing-is-a-family.json":
+  mtime: 2015-02-07 15:03:13.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/posts_json/2014-08-06-dynex-dux-fiber-rigging-after-6-000-sea-miles.json":
+  mtime: 2015-02-07 15:03:13.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/posts_json/2014-08-07-mach-40.json":
+  mtime: 2015-02-07 15:03:13.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/posts_json/2014-08-28-alternative-methods-of-yacht-propulsion.json":
+  mtime: 2015-02-07 15:03:13.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/posts_json/2014-08-30-team-concise-open-40.json":
+  mtime: 2015-02-07 15:03:13.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/posts_json/2014-08-30-we-yesterday-watched-beyond-the-west-horizon-a.json":
+  mtime: 2015-02-07 15:03:13.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/posts_json/2014-09-05-cultisol-the-mini-with-the-bow-from-the-inside.json":
+  mtime: 2015-02-07 15:03:13.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/posts_json/2014-09-05-kavu-sun-hat-good-for-sailing.json":
+  mtime: 2015-02-07 15:03:13.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/posts_json/2014-09-08-boat-building-research-phase.json":
+  mtime: 2015-02-07 15:03:13.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/posts_json/2014-09-12-the-new-rm-1070-plywood-hull-lifting-keel.json":
+  mtime: 2015-02-07 15:03:13.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/posts_json/2014-09-23-will-we-all-be-able-to-sail-in-foiling-mode-like.json":
+  mtime: 2015-02-07 15:03:13.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/posts_json/2014-09-26-pretty-cool-video-from-team-sca-only-a-few-days.json":
+  mtime: 2015-02-07 15:03:13.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/posts_json/2014-10-04-a-drone-that-automatically-follows-you-around.json":
+  mtime: 2015-02-07 15:03:13.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/posts_json/2014-10-04-single-handedly-hoisting-a-spinnaker-filmed-on.json":
+  mtime: 2015-02-07 15:03:13.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/posts_json/2014-10-05-guy-designs-and-builds-a-tsunami-survival-boat-out.json":
+  mtime: 2015-02-07 15:03:13.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/posts_json/2014-10-09-cap-west-sailing-charter.json":
+  mtime: 2015-02-07 15:03:13.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/posts_json/2014-10-18-oceanvolt.json":
+  mtime: 2015-02-07 15:03:13.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/posts_json/2014-10-21-pogo-30-trip-brittany-september-2014.json":
+  mtime: 2015-02-07 15:03:13.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/posts_json/2014-10-23-just-discovered-sailboat-a-cute-little-sailing.json":
+  mtime: 2015-02-07 15:03:13.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/posts_json/2014-10-27-harryproa.json":
+  mtime: 2015-02-07 15:03:13.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/posts_json/2014-10-29-carpentry-workshop.json":
+  mtime: 2015-02-07 15:03:13.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/posts_json/2014-11-06-navigatrix-net-a-voyagers-companion.json":
+  mtime: 2015-02-07 15:20:40.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/posts_json/2014-11-07-.json":
+  mtime: 2015-02-07 15:03:13.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/posts_json/2014-11-11-extending-a-catamaran-by-1-5m.json":
+  mtime: 2015-02-07 15:03:13.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/posts_json/2014-11-13-class-40-panoramic-view.json":
+  mtime: 2015-02-07 15:03:13.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/posts_json/2014-11-18-dominik-lenk-and-his-empty-mini.json":
+  mtime: 2015-02-07 15:03:13.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/posts_json/2014-11-25-barcelona-world-race-film.json":
+  mtime: 2015-02-07 15:03:13.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/posts_json/2014-12-04-dudley-dix-mini-mk3-being-built-in-dubai.json":
+  mtime: 2015-02-07 15:03:13.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/posts_json/2014-12-07-first-photo-of-the-new-pogo-36.json":
+  mtime: 2015-02-07 15:22:17.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/posts_json/2014-12-07-going-smaller-going-mini.json":
+  mtime: 2015-02-07 15:03:13.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/posts_json/2014-12-22-the-kit-for-building-the-eastport-pram-has.json":
+  mtime: 2015-02-07 15:03:13.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/posts_json/2015-01-16-banque-populaire-xiii-imoca-on-foils.json":
+  mtime: 2015-02-07 15:03:13.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/posts_json/2015-01-21-docking-when-short-handed.json":
+  mtime: 2015-02-07 15:03:13.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/posts_json/2015-01-27-360-panoramas-of-an-rm1070-at-the-salon-nautique.json":
+  mtime: 2015-02-07 15:03:13.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/posts_json/2015-02-06-mini-transat-star-wars.json":
+  mtime: 2015-02-07 15:03:13.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/posts_json/2015-02-06-weve-been-working-on-a-dinghy-over-the-last.json":
+  mtime: 2015-02-07 15:06:37.000000000 +01:00
+  deps: []
 "/Users/langalex/Playground/picassol/tumblr_files/tumblr_ml3yvt3D7V1sn37g2o1_1280.jpg":
-  mtime: 2015-02-07 14:07:36.000000000 +01:00
+  mtime: 2015-02-07 15:54:58.000000000 +01:00
   deps: []
 "/Users/langalex/Playground/picassol/tumblr_files/tumblr_mlgs596LKa1sn37g2o10_1280.jpg":
-  mtime: 2015-02-07 14:07:35.000000000 +01:00
+  mtime: 2015-02-07 15:55:09.000000000 +01:00
   deps: []
 "/Users/langalex/Playground/picassol/tumblr_files/tumblr_mlgs596LKa1sn37g2o1_1280.jpg":
-  mtime: 2015-02-07 14:07:24.000000000 +01:00
+  mtime: 2015-02-07 15:54:59.000000000 +01:00
   deps: []
 "/Users/langalex/Playground/picassol/tumblr_files/tumblr_mlgs596LKa1sn37g2o2_1280.jpg":
-  mtime: 2015-02-07 14:07:25.000000000 +01:00
+  mtime: 2015-02-07 15:55:00.000000000 +01:00
   deps: []
 "/Users/langalex/Playground/picassol/tumblr_files/tumblr_mlgs596LKa1sn37g2o3_1280.jpg":
-  mtime: 2015-02-07 14:07:26.000000000 +01:00
+  mtime: 2015-02-07 15:55:01.000000000 +01:00
   deps: []
 "/Users/langalex/Playground/picassol/tumblr_files/tumblr_mlgs596LKa1sn37g2o4_1280.jpg":
-  mtime: 2015-02-07 14:07:28.000000000 +01:00
+  mtime: 2015-02-07 15:55:01.000000000 +01:00
   deps: []
 "/Users/langalex/Playground/picassol/tumblr_files/tumblr_mlgs596LKa1sn37g2o5_1280.jpg":
-  mtime: 2015-02-07 14:07:29.000000000 +01:00
+  mtime: 2015-02-07 15:55:02.000000000 +01:00
   deps: []
 "/Users/langalex/Playground/picassol/tumblr_files/tumblr_mlgs596LKa1sn37g2o6_1280.jpg":
-  mtime: 2015-02-07 14:07:30.000000000 +01:00
+  mtime: 2015-02-07 15:55:07.000000000 +01:00
   deps: []
 "/Users/langalex/Playground/picassol/tumblr_files/tumblr_mlgs596LKa1sn37g2o7_1280.jpg":
-  mtime: 2015-02-07 14:07:31.000000000 +01:00
+  mtime: 2015-02-07 15:55:08.000000000 +01:00
   deps: []
 "/Users/langalex/Playground/picassol/tumblr_files/tumblr_mlgs596LKa1sn37g2o8_1280.jpg":
-  mtime: 2015-02-07 14:07:32.000000000 +01:00
+  mtime: 2015-02-07 15:55:09.000000000 +01:00
   deps: []
 "/Users/langalex/Playground/picassol/tumblr_files/tumblr_mlgs596LKa1sn37g2o9_1280.jpg":
-  mtime: 2015-02-07 14:07:34.000000000 +01:00
+  mtime: 2015-02-07 15:55:09.000000000 +01:00
   deps: []
 "/Users/langalex/Playground/picassol/tumblr_files/tumblr_mliu87UiXs1sn37g2o1_1280.jpg":
-  mtime: 2015-02-07 14:07:22.000000000 +01:00
+  mtime: 2015-02-07 15:55:10.000000000 +01:00
   deps: []
 "/Users/langalex/Playground/picassol/tumblr_files/tumblr_mliu87UiXs1sn37g2o2_1280.jpg":
-  mtime: 2015-02-07 14:07:23.000000000 +01:00
+  mtime: 2015-02-07 15:55:11.000000000 +01:00
   deps: []
 "/Users/langalex/Playground/picassol/tumblr_files/tumblr_mn52f8AwgI1sn37g2o1_1280.jpg":
-  mtime: 2015-02-07 14:07:20.000000000 +01:00
+  mtime: 2015-02-07 15:55:11.000000000 +01:00
   deps: []
 "/Users/langalex/Playground/picassol/tumblr_files/tumblr_mnalvaAz2g1sn37g2o1_1280.jpg":
-  mtime: 2015-02-07 14:07:19.000000000 +01:00
+  mtime: 2015-02-07 15:55:12.000000000 +01:00
   deps: []
 "/Users/langalex/Playground/picassol/tumblr_files/tumblr_n0r2lv6bd51sn37g2o1_1280.jpg":
-  mtime: 2015-02-07 14:07:15.000000000 +01:00
+  mtime: 2015-02-07 15:55:12.000000000 +01:00
   deps: []
 "/Users/langalex/Playground/picassol/tumblr_files/tumblr_n5dky3Ipim1sn37g2o1_1280.png":
-  mtime: 2015-02-07 14:07:14.000000000 +01:00
+  mtime: 2015-02-07 15:55:12.000000000 +01:00
   deps: []
 "/Users/langalex/Playground/picassol/tumblr_files/tumblr_n66oyavqwM1sn37g2o1_1280.jpg":
-  mtime: 2015-02-07 14:07:11.000000000 +01:00
+  mtime: 2015-02-07 15:55:13.000000000 +01:00
   deps: []
 "/Users/langalex/Playground/picassol/tumblr_files/tumblr_n9fbkpFMxi1sn37g2o1_1280.png":
-  mtime: 2015-02-07 14:07:08.000000000 +01:00
+  mtime: 2015-02-07 15:55:15.000000000 +01:00
   deps: []
 "/Users/langalex/Playground/picassol/tumblr_files/tumblr_nbfjyytdGo1sn37g2o1_1280.jpg":
-  mtime: 2015-02-07 14:07:06.000000000 +01:00
+  mtime: 2015-02-07 15:55:15.000000000 +01:00
   deps: []
 "/Users/langalex/Playground/picassol/tumblr_files/tumblr_nbt3ijvKnD1sn37g2o1_1280.png":
-  mtime: 2015-02-07 14:07:05.000000000 +01:00
+  mtime: 2015-02-07 15:55:15.000000000 +01:00
   deps: []
 "/Users/langalex/Playground/picassol/tumblr_files/tumblr_ncdb45gqpn1sn37g2o1_1280.jpg":
-  mtime: 2015-02-07 14:07:05.000000000 +01:00
+  mtime: 2015-02-07 15:55:15.000000000 +01:00
   deps: []
 "/Users/langalex/Playground/picassol/tumblr_files/tumblr_ndwwzmVSCW1sn37g2o1_1280.jpg":
-  mtime: 2015-02-07 14:07:04.000000000 +01:00
+  mtime: 2015-02-07 15:55:15.000000000 +01:00
   deps: []
 "/Users/langalex/Playground/picassol/tumblr_files/tumblr_nf8vq1YNLT1sn37g2o1_1280.jpg":
-  mtime: 2015-02-07 14:07:03.000000000 +01:00
+  mtime: 2015-02-07 15:55:16.000000000 +01:00
   deps: []
 "/Users/langalex/Playground/picassol/tumblr_files/tumblr_ng84jt6InG1sn37g2o1_1280.png":
-  mtime: 2015-02-07 14:07:03.000000000 +01:00
+  mtime: 2015-02-07 15:55:16.000000000 +01:00
   deps: []
 "/Users/langalex/Playground/picassol/tumblr_files/tumblr_ngzlnvFoyv1sn37g2o1_1280.jpg":
-  mtime: 2015-02-07 14:07:02.000000000 +01:00
+  mtime: 2015-02-07 15:55:17.000000000 +01:00
   deps: []
 "/Users/langalex/Playground/picassol/tumblr_files/tumblr_niu3mbBpWN1sn37g2o1_1280.png":
-  mtime: 2015-02-07 14:07:02.000000000 +01:00
+  mtime: 2015-02-07 15:55:20.000000000 +01:00
   deps: []
 "/Users/langalex/Playground/picassol/tumblr_files/tumblr_njce5twAkD1sn37g2o10_1280.jpg":
-  mtime: 2015-02-07 14:07:02.000000000 +01:00
+  mtime: 2015-02-07 15:55:26.000000000 +01:00
   deps: []
 "/Users/langalex/Playground/picassol/tumblr_files/tumblr_njce5twAkD1sn37g2o1_1280.jpg":
-  mtime: 2015-02-07 14:06:54.000000000 +01:00
+  mtime: 2015-02-07 15:55:20.000000000 +01:00
   deps: []
 "/Users/langalex/Playground/picassol/tumblr_files/tumblr_njce5twAkD1sn37g2o2_1280.jpg":
-  mtime: 2015-02-07 14:06:55.000000000 +01:00
+  mtime: 2015-02-07 15:55:20.000000000 +01:00
   deps: []
 "/Users/langalex/Playground/picassol/tumblr_files/tumblr_njce5twAkD1sn37g2o3_1280.jpg":
-  mtime: 2015-02-07 14:06:56.000000000 +01:00
+  mtime: 2015-02-07 15:55:21.000000000 +01:00
   deps: []
 "/Users/langalex/Playground/picassol/tumblr_files/tumblr_njce5twAkD1sn37g2o4_1280.jpg":
-  mtime: 2015-02-07 14:06:56.000000000 +01:00
+  mtime: 2015-02-07 15:55:21.000000000 +01:00
   deps: []
 "/Users/langalex/Playground/picassol/tumblr_files/tumblr_njce5twAkD1sn37g2o5_1280.jpg":
-  mtime: 2015-02-07 14:06:57.000000000 +01:00
+  mtime: 2015-02-07 15:55:22.000000000 +01:00
   deps: []
 "/Users/langalex/Playground/picassol/tumblr_files/tumblr_njce5twAkD1sn37g2o6_1280.jpg":
-  mtime: 2015-02-07 14:06:58.000000000 +01:00
+  mtime: 2015-02-07 15:55:22.000000000 +01:00
   deps: []
 "/Users/langalex/Playground/picassol/tumblr_files/tumblr_njce5twAkD1sn37g2o7_1280.jpg":
-  mtime: 2015-02-07 14:06:59.000000000 +01:00
+  mtime: 2015-02-07 15:55:23.000000000 +01:00
   deps: []
 "/Users/langalex/Playground/picassol/tumblr_files/tumblr_njce5twAkD1sn37g2o8_1280.jpg":
-  mtime: 2015-02-07 14:07:00.000000000 +01:00
+  mtime: 2015-02-07 15:55:24.000000000 +01:00
   deps: []
 "/Users/langalex/Playground/picassol/tumblr_files/tumblr_njce5twAkD1sn37g2o9_1280.jpg":
-  mtime: 2015-02-07 14:07:01.000000000 +01:00
-  deps: []
-"/Users/langalex/Playground/picassol/_layouts/post.html":
-  mtime: 2015-02-07 14:08:56.000000000 +01:00
+  mtime: 2015-02-07 15:55:25.000000000 +01:00
   deps: []
 "/Users/langalex/Playground/picassol/_layouts/page.html":
   mtime: 2015-02-07 14:08:56.000000000 +01:00
@@ -1235,1078 +941,15 @@
 "/Users/langalex/Playground/picassol/_includes/head.html":
   mtime: 2015-02-07 14:08:56.000000000 +01:00
   deps: []
-"/Users/langalex/Playground/picassol/_posts/tumblr/2013-04-02-hello-world.html":
-  mtime: 2015-02-07 14:22:57.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
 "/Users/langalex/Playground/picassol/_includes/header.html":
   mtime: 2015-02-07 14:08:56.000000000 +01:00
   deps: []
-"/Users/langalex/Playground/picassol/_posts/tumblr/2013-04-07-an-introduction-to-boats-that-goes-into-a-few.html":
-  mtime: 2015-02-07 14:22:57.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2013-04-10-on-hawk-we-can-reef-our-mainsail-when-sailing.html":
-  mtime: 2015-02-07 14:22:57.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2013-04-10-the-best-sail-management-ideas-for-us-come-from.html":
-  mtime: 2015-02-07 14:22:57.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2013-04-10-sails-have-to-be-manageable-by-a-single-person-on.html":
-  mtime: 2015-02-07 14:22:57.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2013-04-10-take-a-picture-of-the-interior-of-your-boat-and.html":
-  mtime: 2015-02-07 14:22:57.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2013-04-11-forty-1-a-new-open-40-design-want.html":
-  mtime: 2015-02-07 14:22:57.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2013-04-14-on-charter-boats.html":
-  mtime: 2015-02-07 14:22:57.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2013-04-18-photos-from-the-2013-americas-cup-world-series-in.html":
-  mtime: 2015-02-07 14:22:57.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2013-04-19-americas-cup-world-series-2013-naples-day-2.html":
-  mtime: 2015-02-07 14:22:57.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2013-04-22-americas-cup-world-series-in-naples.html":
-  mtime: 2015-02-07 14:22:57.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2013-05-02-an-introduction-to-boats-part-2.html":
-  mtime: 2015-02-07 14:22:57.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2013-05-05-start-of-the-2012-vendee-globe.html":
-  mtime: 2015-02-07 14:22:57.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2013-05-05-americas-cup-world-series-naples-highlights.html":
-  mtime: 2015-02-07 14:22:57.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2013-05-09-only-200-people-have-sailed-solo-around-the-world.html":
-  mtime: 2015-02-07 14:22:57.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2013-05-09-waterworld.html":
-  mtime: 2015-02-07 14:22:57.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2013-05-12-the-restoration-of-glissando.html":
-  mtime: 2015-02-07 14:22:57.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2013-05-12-sails.html":
-  mtime: 2015-02-07 14:22:57.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2013-05-20-planning-time.html":
-  mtime: 2015-02-07 14:22:57.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2013-05-21-just-came-in-with-the-mail.html":
-  mtime: 2015-02-07 14:22:57.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2013-05-24-new-desktop-wallpaper-a-pogo-open-40.html":
-  mtime: 2015-02-07 14:22:57.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2013-05-25-hull-1-of-the-pogo-50.html":
-  mtime: 2015-02-07 14:22:57.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2013-05-26-sponsoring.html":
-  mtime: 2015-02-07 14:22:57.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2013-05-26-a-one-year-subscription-for-the-blue-water-sailing.html":
-  mtime: 2015-02-07 14:22:57.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2013-06-24-worlds-fastest-sailboat.html":
-  mtime: 2015-02-07 14:22:57.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2013-07-02-the-voyagers-handbook.html":
-  mtime: 2015-02-07 14:22:57.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2013-07-05-essential-shipboard-references.html":
-  mtime: 2015-02-07 14:22:57.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2013-07-10-building-a-carbon-fiber-hull-with-vacuum-infusion.html":
-  mtime: 2015-02-07 14:22:57.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2013-07-12-3d-printing.html":
-  mtime: 2015-02-07 14:22:57.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2013-07-14-refurbishing-the-hallberg-rassy-46-regina-laska.html":
-  mtime: 2015-02-07 14:22:57.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2013-07-20-apps-apps-apps.html":
-  mtime: 2015-02-07 14:22:57.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2013-08-12-carbon-fiber.html":
-  mtime: 2015-02-07 14:22:57.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2013-09-02-httpanasaziracingblogspotde201309antal-floating-jib-ringhtml.html":
-  mtime: 2015-02-07 14:22:57.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2013-09-03-croatia-sailing-trip.html":
-  mtime: 2015-02-07 14:22:57.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2013-09-03-interview-with-the-anasazi-crew-on-the-sailing.html":
-  mtime: 2015-02-07 14:22:56.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2013-09-15-power-on-board.html":
-  mtime: 2015-02-07 14:22:56.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2013-11-03-a-self-made-film-by-the-anarchist-yacht-club-about.html":
-  mtime: 2015-02-07 14:22:56.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2013-11-08-how-sails-are-made.html":
-  mtime: 2015-02-07 14:22:56.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2013-11-08-the-tech-behind-the-worlds-largest-mast-de.html":
-  mtime: 2015-02-07 14:22:56.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2013-11-11-the-first-vo65-for-the-volvo-ocean-race-2014-is.html":
-  mtime: 2015-02-07 14:22:56.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2013-11-12-a-tour-around-skip-novaks-high-latitude.html":
-  mtime: 2015-02-07 14:22:56.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2013-11-14-first-look-at-the-pogo-30-this-boat-planes-at.html":
-  mtime: 2015-02-07 14:22:56.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2013-11-15-heres-another-video-of-the-new-pogo-30-from-what.html":
-  mtime: 2015-02-07 14:22:56.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2013-11-15-ok-one-more-pogo-30-video-this-one-has-the.html":
-  mtime: 2015-02-07 14:22:56.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2013-11-16-barcelona-boats.html":
-  mtime: 2015-02-07 14:22:56.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2013-11-17-bbc-documentary-about-the-1979-fastnet-tragedy.html":
-  mtime: 2015-02-07 14:22:56.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2013-11-17-reading-corner-vendee-globe.html":
-  mtime: 2015-02-07 14:22:56.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2013-11-24-untie-the-lines.html":
-  mtime: 2015-02-07 14:22:56.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2013-11-24-beautiful-video-and-beautiful-boat.html":
-  mtime: 2015-02-07 14:22:56.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2013-11-29-imoca-in-action.html":
-  mtime: 2015-02-07 14:22:56.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2013-12-14-10-cool-rigger-tricks-to-kit-out-your-sailboat.html":
-  mtime: 2015-02-07 14:22:56.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2013-12-14-the-speeddream-team-has-posted-a-video-of-a-new.html":
-  mtime: 2015-02-07 14:22:56.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2014-01-01-video-documentary-about-the-1973-74-whitbread.html":
-  mtime: 2015-02-07 14:22:56.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2014-01-05-new-name-new-mission.html":
-  mtime: 2015-02-07 14:22:56.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2014-01-07-the-french-have-made-a-new-sailing-movie-called-en.html":
-  mtime: 2015-02-07 14:22:56.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2014-01-08-24h-with-jean-pierre-dick.html":
-  mtime: 2015-02-07 14:22:56.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2014-01-10-the-solar-panels-do-not-give-a-lot-of-power.html":
-  mtime: 2015-02-07 14:22:56.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2014-01-12-pogo-30-here-we-come.html":
-  mtime: 2015-02-07 14:22:56.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2014-01-25-team-sca-videos.html":
-  mtime: 2015-02-07 14:22:56.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2014-01-26-photos-and-impressions-from-boot-dusseldorf-2014.html":
-  mtime: 2015-02-07 14:22:56.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2014-01-31-20-minute-documentary-about-jonas-gerckens.html":
-  mtime: 2015-02-07 14:22:56.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2014-02-02-pogo-40-trip-in-april.html":
-  mtime: 2015-02-07 14:22:56.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2014-02-09-photos-from-a-cruising-trip-on-a-pogo-mini-6-50.html":
-  mtime: 2015-02-07 14:22:56.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2014-02-15-spent-the-day-watching-this-epic-2-5h-documentary.html":
-  mtime: 2015-02-07 14:22:56.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2014-02-17-under-the-bridge.html":
-  mtime: 2015-02-07 14:22:56.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2014-02-23-between-places-sailing-climbing-skiing.html":
-  mtime: 2015-02-07 14:22:56.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2014-03-10-mini-transat-2013-on-a-proto-first-time-ive.html":
-  mtime: 2015-02-07 14:22:56.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2014-03-12-the-fixable-yacht.html":
-  mtime: 2015-02-07 14:22:56.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2014-03-13-setting-up-a-jury-rig.html":
-  mtime: 2015-02-07 14:22:56.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2014-03-20-watch-maidentrip.html":
-  mtime: 2015-02-07 14:22:56.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2014-04-04-new-sailing-pants.html":
-  mtime: 2015-02-07 14:22:56.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2014-04-11-solar-cells-in-the-main.html":
-  mtime: 2015-02-07 14:22:56.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2014-04-24-sortie-en-mer.html":
-  mtime: 2015-02-07 14:22:56.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2014-04-26-pogo-40.html":
-  mtime: 2015-02-07 14:22:56.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2014-05-05-video-of-our-trip-on-a-pogo-40-in-april-2014.html":
-  mtime: 2015-02-07 14:22:56.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2014-05-10-the-anasazi-crew-have-been-uploading-quite-a-few.html":
-  mtime: 2015-02-07 14:22:56.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2014-05-14-a-short-documentary-about-david-welsford-who-has.html":
-  mtime: 2015-02-07 14:22:56.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2014-05-25-a-face-mask-with-an-integrated-snorkel-for-easier.html":
-  mtime: 2015-02-07 14:22:56.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2014-05-26-transparent-dingy-anyone-via.html":
-  mtime: 2015-02-07 14:22:56.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2014-06-01-watch-crew-2-0.html":
-  mtime: 2015-02-07 14:22:56.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2014-06-11-alternative-sailing-yacht-charter.html":
-  mtime: 2015-02-07 14:22:56.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2014-06-11-maiden-trip-bonus.html":
-  mtime: 2015-02-07 14:22:56.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2014-06-14-jeanneau-sun-fast-3600-looks-like-a-really-nice.html":
-  mtime: 2015-02-07 14:22:56.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2014-06-15-racing-around-the-world-alone-vendee-globe.html":
-  mtime: 2015-02-07 14:22:56.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2014-06-17-planet-ocean-full-length-film-about-the-state-of.html":
-  mtime: 2015-02-07 14:22:54.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2014-06-28-open-60-refit-great-american-iv-ready-to-sail.html":
-  mtime: 2015-02-07 14:22:54.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2014-07-03-free-piston-engine.html":
-  mtime: 2015-02-07 14:22:54.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2014-07-03-another-ocean-cleanup-project.html":
-  mtime: 2015-02-07 14:22:54.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2014-07-05-solaire-34.html":
-  mtime: 2015-02-07 14:22:54.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2014-07-08-marco-nannini-vela-daltura-offshore-sailing.html":
-  mtime: 2015-02-07 14:22:54.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2014-07-13-the-new-rm-890-nice-boat-made-from-plywood.html":
-  mtime: 2015-02-07 14:22:54.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2014-07-16-nomad-iv-worlds-fastest-cruising-yacht.html":
-  mtime: 2015-02-07 14:22:54.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2014-07-21-les-sables-les-acores-les-sables-2014.html":
-  mtime: 2015-02-07 14:22:54.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2014-07-28-the-acyd-950-made-from-plywood-looks-pretty.html":
-  mtime: 2015-02-07 14:22:54.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2014-07-29-new-boat-shoes.html":
-  mtime: 2015-02-07 14:22:54.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2014-08-03-food-for-passage.html":
-  mtime: 2015-02-07 14:22:54.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2014-08-03-building-my-own-boat.html":
-  mtime: 2015-02-07 14:22:54.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2014-08-04-how-to-lose-1-200-pounds.html":
-  mtime: 2015-02-07 14:22:54.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2014-08-05-five-families-prove-that-sailing-is-a-family.html":
-  mtime: 2015-02-07 14:22:54.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2014-08-06-dynex-dux-fiber-rigging-after-6-000-sea-miles.html":
-  mtime: 2015-02-07 14:22:54.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2014-08-07-mach-40.html":
-  mtime: 2015-02-07 14:22:54.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2014-08-28-alternative-methods-of-yacht-propulsion.html":
-  mtime: 2015-02-07 14:22:54.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2014-08-30-we-yesterday-watched-beyond-the-west-horizon-a.html":
-  mtime: 2015-02-07 14:22:54.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2014-08-30-team-concise-open-40.html":
-  mtime: 2015-02-07 14:22:54.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2014-09-05-kavu-sun-hat-good-for-sailing.html":
-  mtime: 2015-02-07 14:22:54.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2014-09-05-cultisol-the-mini-with-the-bow-from-the-inside.html":
-  mtime: 2015-02-07 14:22:54.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2014-09-08-boat-building-research-phase.html":
-  mtime: 2015-02-07 14:22:54.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2014-09-12-the-new-rm-1070-plywood-hull-lifting-keel.html":
-  mtime: 2015-02-07 14:22:54.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2014-09-23-will-we-all-be-able-to-sail-in-foiling-mode-like.html":
-  mtime: 2015-02-07 14:22:54.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2014-09-26-pretty-cool-video-from-team-sca-only-a-few-days.html":
-  mtime: 2015-02-07 14:22:54.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2014-10-04-a-drone-that-automatically-follows-you-around.html":
-  mtime: 2015-02-07 14:22:54.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2014-10-04-single-handedly-hoisting-a-spinnaker-filmed-on.html":
-  mtime: 2015-02-07 14:22:54.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2014-10-05-guy-designs-and-builds-a-tsunami-survival-boat-out.html":
-  mtime: 2015-02-07 14:22:54.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2014-10-09-cap-west-sailing-charter.html":
-  mtime: 2015-02-07 14:22:54.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2014-10-18-oceanvolt.html":
-  mtime: 2015-02-07 14:22:54.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2014-10-21-pogo-30-trip-brittany-september-2014.html":
-  mtime: 2015-02-07 14:22:54.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2014-10-23-just-discovered-sailboat-a-cute-little-sailing.html":
-  mtime: 2015-02-07 14:22:54.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2014-10-27-harryproa.html":
-  mtime: 2015-02-07 14:22:54.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2014-10-29-carpentry-workshop.html":
-  mtime: 2015-02-07 14:22:54.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2014-11-07-navigatrix-net-a-voyagers-companion.html":
-  mtime: 2015-02-07 14:22:54.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2014-11-07-no-title.html":
-  mtime: 2015-02-07 14:22:54.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2014-11-11-extending-a-catamaran-by-1-5m.html":
-  mtime: 2015-02-07 14:22:54.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2014-11-13-class-40-panoramic-view.html":
-  mtime: 2015-02-07 14:22:54.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2014-11-18-dominik-lenk-and-his-empty-mini.html":
-  mtime: 2015-02-07 14:22:54.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2014-11-25-barcelona-world-race-film.html":
-  mtime: 2015-02-07 14:22:54.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2014-12-04-dudley-dix-mini-mk3-being-built-in-dubai.html":
-  mtime: 2015-02-07 14:22:54.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2014-12-07-going-smaller-going-mini.html":
-  mtime: 2015-02-07 14:22:54.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2014-12-07-first-photo-of-the-new-pogo-36.html":
-  mtime: 2015-02-07 14:22:54.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2014-12-22-the-kit-for-building-the-eastport-pram-has.html":
-  mtime: 2015-02-07 14:22:54.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2015-01-16-banque-populaire-xiii-imoca-on-foils.html":
-  mtime: 2015-02-07 14:22:54.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2015-01-21-docking-when-short-handed.html":
-  mtime: 2015-02-07 14:22:54.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2015-01-27-360-panoramas-of-an-rm1070-at-the-salon-nautique.html":
-  mtime: 2015-02-07 14:22:54.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2015-02-06-weve-been-working-on-a-dinghy-over-the-last.html":
-  mtime: 2015-02-07 14:22:54.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
-"/Users/langalex/Playground/picassol/_posts/tumblr/2015-02-06-mini-transat-star-wars.html":
-  mtime: 2015-02-07 14:22:54.000000000 +01:00
-  deps:
-  - "/Users/langalex/Playground/picassol/_layouts/post.html"
-  - "/Users/langalex/Playground/picassol/_includes/head.html"
-  - "/Users/langalex/Playground/picassol/_includes/header.html"
-  - "/Users/langalex/Playground/picassol/_includes/footer.html"
-  - "/Users/langalex/Playground/picassol/_layouts/default.html"
+"/Users/langalex/Playground/picassol/_includes/footer.html":
+  mtime: 2015-02-07 14:08:56.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/_layouts/default.html":
+  mtime: 2015-02-07 14:08:56.000000000 +01:00
+  deps: []
+"/Users/langalex/Playground/picassol/_posts/2015-01-21-docking-when-short-handed.markdown":
+  mtime: 2015-02-14 14:00:01.000000000 +01:00
+  deps: []

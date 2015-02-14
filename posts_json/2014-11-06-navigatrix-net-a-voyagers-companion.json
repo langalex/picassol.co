@@ -1,1 +1,25 @@
-{"blog_name":"sv-picassol","id":101961528072,"post_url":"http://picassol.co/post/101961528072/navigatrix-net-a-voyagers-companion","slug":"navigatrix-net-a-voyagers-companion","type":"link","date":"2014-11-06 23:18:27 GMT","timestamp":1415315907,"state":"published","format":"markdown","reblog_key":"MXw8vU0s","tags":["software","navigation"],"short_url":"http://tmblr.co/Zsxjbs1UzONC8","followed":false,"highlighted":[],"liked":false,"note_count":2,"title":"Navigatrix.net - A Voyager's Companion","url":"http://navigatrix.net/","description":"A Linux based navigation solution that can run from a USB drive.","can_reply":false}
+{
+  "blog_name": "sv-picassol",
+  "id": 101961528072,
+  "post_url": "http://picassol.co/post/101961528072/navigatrix-net-a-voyagers-companion",
+  "slug": "navigatrix-net-a-voyagers-companion",
+  "type": "link",
+  "date": "2014-11-06 23:18:27 GMT",
+  "timestamp": 1415315907,
+  "state": "published",
+  "format": "markdown",
+  "reblog_key": "MXw8vU0s",
+  "tags": [
+    "software",
+    "navigation"
+  ],
+  "short_url": "http://tmblr.co/Zsxjbs1UzONC8",
+  "followed": false,
+  "highlighted": [],
+  "liked": false,
+  "note_count": 2,
+  "title": "Navigatrix.net - A Voyager's Companion",
+  "url": "http://navigatrix.net/",
+  "description": "A Linux based navigation solution that can run from a USB drive.",
+  "can_reply": false
+}

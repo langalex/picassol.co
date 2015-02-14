@@ -1,0 +1,18 @@
+---
+layout: default
+---
+<article class="photo">
+
+  <header class="post-header">
+    <h1 class="post-title">{{ page.title }}</h1>
+  </header>
+
+  <div class="post-content">
+    {% for photo in photos %}
+      <div class="photo">
+        <img src="{{photo.url}}">
+        <div class="photo-caption">{{photo.caption}}</div>
+      </div>
+    {% endfor %}
+  </div>
+</article>
