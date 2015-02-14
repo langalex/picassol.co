@@ -1,4 +1,7 @@
 ---
+caption: |-
+  We’ve been working on a Dinghy over the last holidays but haven’t been able to complete it in time. So now progress is a bit slower with only the weekends available.
+  The hull is almost done though. Next steps are coating it in 2 layers of epoxy, then sawing it in its two halves, then painting.
 photos:
 - url: "/tumblr_files/tumblr_njce5twAkD1sn37g2o1_1280.jpg"
   caption: ''
@@ -20,6 +23,7 @@ photos:
   caption: ''
 - url: "/tumblr_files/tumblr_njce5twAkD1sn37g2o10_1280.jpg"
   caption: ''
+photo: "/tumblr_files/tumblr_njce5twAkD1sn37g2o1_1280.jpg"
 layout: photo
 date: '2015-02-06T09:56:16+01:00'
 tags:

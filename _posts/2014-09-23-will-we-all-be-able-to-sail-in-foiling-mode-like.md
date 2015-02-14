@@ -1,7 +1,10 @@
 ---
+caption: <p>Will we all be able to <a href="https://m.facebook.com/story.php?story_fbid=509616349174984&id=168535683283054">sail
+  in foiling mode like this</a> in a few years? I certainly wouldn&#8217;t mind.</p>
 photos:
 - url: "/tumblr_files/tumblr_ncdb45gqpn1sn37g2o1_1280.jpg"
   caption: ''
+photo: "/tumblr_files/tumblr_ncdb45gqpn1sn37g2o1_1280.jpg"
 layout: photo
 date: '2014-09-23T20:52:53+02:00'
 tags:

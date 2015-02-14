@@ -38,10 +38,14 @@ posts.each do |post|
     header[:description] = post[:description]
   when "photo"
     title = post[:caption].gsub(/\[([^\]]+)\]\([^\)]+\)/, '\1')
+    header[:caption] = post[:caption]
     post[:photos].each do |post_photo|
       photo = fetch_photo post_photo
       header[:photos] ||= []
       header[:photos] << {url: photo, caption: post_photo[:caption]}
+    end
+    if photo=  post[:photos][0]
+      header[:photo] = fetch_photo(photo)
     end
   when "quote"
     title = post[:text]
