@@ -8,7 +8,6 @@ tags:
 - sailing
 - pants
 title: New Sailing Pants
-slug: new-sailing-pants
 ---
 <div style="float:right">
 <img src="https://31.media.tumblr.com/14296dc1f675de14a61e05859ee439a2/tumblr_inline_n3hx1kAltt1qcydz0.png" style="height:500px;margin-left:100px">

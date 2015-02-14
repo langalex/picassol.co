@@ -12,5 +12,4 @@ tags:
 - race
 title: 20-minute documentary about Jonas Gercken's participation in the Mini Transat
   2013. With dolphins.
-slug: 20-minute-documentary-about-jonas-gerckens
 ---

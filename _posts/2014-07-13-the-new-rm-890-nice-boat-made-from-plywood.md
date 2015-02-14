@@ -10,5 +10,4 @@ tags:
 - yacht
 - rm890
 title: The new [RM 890](http://www.rm-yachts.com/rm-890) - nice boat, made from plywood.
-slug: the-new-rm-890-nice-boat-made-from-plywood
 ---

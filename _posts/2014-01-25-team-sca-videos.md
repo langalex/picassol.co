@@ -6,7 +6,6 @@ tags:
 - teamsca
 - video
 title: Team SCA videos
-slug: team-sca-videos
 ---
 <p>Team SCA, the all-women team of the next Volvo Ocean Race are already pumping out videos one after the other, and they are really well done, too. See for yourself:</p>
 

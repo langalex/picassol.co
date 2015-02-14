@@ -8,5 +8,4 @@ layout: video
 date: '2013-05-25T20:43:29+02:00'
 tags: []
 title: 'Hull #1 of the POGO 50'
-slug: hull-1-of-the-pogo-50
 ---

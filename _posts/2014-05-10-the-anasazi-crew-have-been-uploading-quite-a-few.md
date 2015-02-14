@@ -15,5 +15,4 @@ tags:
 - photos
 title: 'The Anasazi crew have been uploading quite a few pictures in the past few
   days. As always: great photography.'
-slug: the-anasazi-crew-have-been-uploading-quite-a-few
 ---

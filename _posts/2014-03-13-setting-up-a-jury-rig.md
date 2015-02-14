@@ -9,5 +9,4 @@ tags:
 - video
 - jury rig
 title: Setting up a jury rig
-slug: setting-up-a-jury-rig
 ---

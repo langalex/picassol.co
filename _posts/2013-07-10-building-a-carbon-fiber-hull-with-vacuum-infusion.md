@@ -7,5 +7,4 @@ layout: video
 date: '2013-07-10T22:55:12+02:00'
 tags: []
 title: Building a carbon fiber hull with vacuum infusion explained
-slug: building-a-carbon-fiber-hull-with-vacuum-infusion
 ---

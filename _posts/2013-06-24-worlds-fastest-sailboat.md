@@ -7,7 +7,6 @@ tags:
 - sailing
 - foils
 title: World's fastest Sailboat
-slug: worlds-fastest-sailboat
 ---
 <iframe width="560" height="315" src="http://www.youtube.com/embed/S3mQNLTuJRI?rel=0" frameborder="0" allowfullscreen></iframe>
 

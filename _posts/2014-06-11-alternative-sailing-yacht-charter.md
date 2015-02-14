@@ -12,5 +12,4 @@ tags:
 - pogo
 - ovni
 title: Alternative Sailing – Yacht Charter
-slug: alternative-sailing-yacht-charter
 ---

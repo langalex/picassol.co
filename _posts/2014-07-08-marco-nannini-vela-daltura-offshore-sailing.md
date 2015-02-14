@@ -7,5 +7,4 @@ date: '2014-07-08T16:39:26+02:00'
 tags: []
 title: Marco Nannini - Vela d'Altura - Offshore sailing on performance boats | Marco
   Nannini - Vela d'Altura - Offshore sailing on performance boats
-slug: marco-nannini-vela-daltura-offshore-sailing
 ---

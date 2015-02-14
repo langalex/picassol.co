@@ -6,7 +6,6 @@ tags:
 - boating
 - clogs
 title: New Boat Shoes
-slug: new-boat-shoes
 ---
 I just bought a pair of [Vivo Barefoot Ultras](http://www.vivobarefoot.com/eu/mens/ultra-mens), actually for sports, but I think these would make for some great boat shoes as well. They go in the direction of [clogs](http://www.crocs.com/classic-crocs-shoes/classic-styles,default,sc.html?intid=mm_shop_by_classics_140201) but maybe a bit less weird.
 

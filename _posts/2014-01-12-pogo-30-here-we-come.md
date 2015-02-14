@@ -5,7 +5,6 @@ tags:
 - pogo
 - charter
 title: Pogo 30 here we come!
-slug: pogo-30-here-we-come
 ---
 After my [recent](http://picassol.co/post/67049111213/heres-another-video-of-the-new-pogo-30-from-what) [ravings](http://picassol.co/post/66910496503/first-look-at-the-pogo-30-this-boat-planes-at) about the new [Pogo 30](http://www.pogostructures.com/en/cruising-sailboats/pogo-30-in-development/) I am proud to announce that I've managed to charter one. We'll have it for one week in mid September, so not exactly next week. I can't wait!!
 

@@ -7,5 +7,4 @@ layout: video
 date: '2013-11-14T00:00:35+01:00'
 tags: []
 title: First look at the Pogo 30 - this boat planes at 9kn in 14kn of wind (!)
-slug: first-look-at-the-pogo-30-this-boat-planes-at
 ---

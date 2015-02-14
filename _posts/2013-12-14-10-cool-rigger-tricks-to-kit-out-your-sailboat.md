@@ -5,5 +5,4 @@ layout: link
 date: '2013-12-14T17:08:18+01:00'
 tags: []
 title: 10 Cool Rigger Tricks to Kit Out Your Sailboat
-slug: 10-cool-rigger-tricks-to-kit-out-your-sailboat
 ---

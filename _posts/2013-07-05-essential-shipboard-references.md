@@ -7,5 +7,4 @@ tags:
 - books
 - movies
 title: Essential Shipboard References
-slug: essential-shipboard-references
 ---

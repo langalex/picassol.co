@@ -9,5 +9,4 @@ tags:
 - star wars
 - mini650 minitransat
 title: Mini Transat Star Wars
-slug: mini-transat-star-wars
 ---

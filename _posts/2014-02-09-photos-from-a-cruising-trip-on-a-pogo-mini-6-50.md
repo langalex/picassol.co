@@ -9,5 +9,4 @@ layout: photo
 date: '2014-02-09T23:32:00+01:00'
 tags: []
 title: Photos from a cruising trip on a Pogo Mini 6.50.
-slug: photos-from-a-cruising-trip-on-a-pogo-mini-6-50
 ---

@@ -15,5 +15,4 @@ tags:
 - cabin
 title: Cultisol, the [Mini with the bow](http://www.cultisol.com/sponsoring-voile/le-projet/le-bateau/),
   from the inside.
-slug: cultisol-the-mini-with-the-bow-from-the-inside
 ---

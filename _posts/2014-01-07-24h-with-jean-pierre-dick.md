@@ -7,5 +7,4 @@ layout: video
 date: '2014-01-08T00:15:03+01:00'
 tags: []
 title: 24h with Jean-Pierre Dick
-slug: 24h-with-jean-pierre-dick
 ---

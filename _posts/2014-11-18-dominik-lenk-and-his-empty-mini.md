@@ -9,5 +9,4 @@ date: '2014-11-18T18:10:49+01:00'
 tags:
 - mini650
 title: Dominik Lenk and his empty Mini.
-slug: dominik-lenk-and-his-empty-mini
 ---

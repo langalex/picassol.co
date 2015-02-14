@@ -7,7 +7,6 @@ tags:
 - class950
 - boatbuilding
 title: Building my own boat?
-slug: building-my-own-boat
 ---
 It's an open secret that I'm a big fan of fast boats such as the Pogo 30 (which we will be sailing in September, yay). So when it comes to looking for potentials boats to buy, the usual suspects of cruisers are not that exciting for me. Now buying a Pogo 30 would cost at the very least €100,000, adding in a few extras it'll be more like €120,000, which is few thousands outside of the planned budget. One alternative that I've only recently really discovered and come to appreciate is building a boat myself. From what I've read so far this should allow me to shave off a few €10k from the price in exchange for a lot of hours of work – fun, gratifying work that leads to a boat that I would (literally) know inside out.
 

@@ -8,5 +8,4 @@ layout: photo
 date: '2013-05-24T09:52:21+02:00'
 tags: []
 title: New desktop wallpaper. A Pogo Open 40.
-slug: new-desktop-wallpaper-a-pogo-open-40
 ---

@@ -6,7 +6,6 @@ tags:
 - comfort
 - aesthetics
 title: An Introduction to Boats - Part 2
-slug: an-introduction-to-boats-part-2
 ---
 This is part two of [An introduction to boats](http://bluewaterproject.org/post/47373561591/an-introduction-to-boats-that-goes-into-a-few) and this we talk about comfortable living on board and aesthetics.
 

@@ -13,5 +13,4 @@ tags:
 - single-handed
 title: Single-handedly hoisting a spinnaker – filmed on our Brittany trip in September
   on a Pogo 30.
-slug: single-handedly-hoisting-a-spinnaker-filmed-on
 ---

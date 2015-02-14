@@ -26,5 +26,4 @@ title: "We yesterday watched \"Beyond the West Horizon\", a real gem of a sailin
   has dealt with kerosene stoves since her teens so there's no problem\" and \"has
   one of her washing days\". \n\nVery very nice to watch. It's available on Vimeo
   as a rental for $3.\n\nFound via [@projectatticus](https://twitter.com/atticusproject/status/500995001959329792)."
-slug: we-yesterday-watched-beyond-the-west-horizon-a
 ---

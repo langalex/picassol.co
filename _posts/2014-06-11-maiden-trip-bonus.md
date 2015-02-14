@@ -7,5 +7,4 @@ layout: video
 date: '2014-06-11T23:23:10+02:00'
 tags: []
 title: Maiden Trip bonus
-slug: maiden-trip-bonus
 ---

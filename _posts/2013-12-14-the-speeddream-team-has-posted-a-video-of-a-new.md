@@ -18,5 +18,4 @@ title: The Speeddream team has posted a video of a new prototype. This one now h
   360°. This will eventually allow them to heel the boat to windward, which will cause
   the sails to help lift the boat out of the water for foiling. Can't wait to see
   that happen!
-slug: the-speeddream-team-has-posted-a-video-of-a-new
 ---

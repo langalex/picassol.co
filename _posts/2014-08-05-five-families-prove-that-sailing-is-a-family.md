@@ -7,5 +7,4 @@ tags:
 - sailing
 - family
 title: Five Families Prove that Sailing is a Family Affair
-slug: five-families-prove-that-sailing-is-a-family
 ---

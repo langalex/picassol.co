@@ -6,5 +6,4 @@ layout: link
 date: '2014-08-04T17:07:19+02:00'
 tags: []
 title: How to Lose 1,200 Pounds
-slug: how-to-lose-1-200-pounds
 ---

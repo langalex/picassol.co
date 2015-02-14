@@ -14,5 +14,4 @@ tags:
 title: |+
   A face mask with an integrated snorkel for easier breathing and better visibility. This looks like it could become standard gear on cruising yachts.
 
-slug: a-face-mask-with-an-integrated-snorkel-for-easier
 ---

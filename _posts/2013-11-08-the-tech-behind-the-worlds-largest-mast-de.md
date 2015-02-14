@@ -5,5 +5,4 @@ layout: link
 date: '2013-11-08T09:55:43+01:00'
 tags: []
 title: The tech behind the world's largest mast (de)
-slug: the-tech-behind-the-worlds-largest-mast-de
 ---

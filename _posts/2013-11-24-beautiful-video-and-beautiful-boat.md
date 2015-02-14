@@ -7,5 +7,4 @@ layout: video
 date: '2013-11-24T15:20:54+01:00'
 tags: []
 title: Beautiful video. And beautiful boat!
-slug: beautiful-video-and-beautiful-boat
 ---

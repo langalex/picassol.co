@@ -7,5 +7,4 @@ layout: video
 date: '2013-05-05T11:36:45+02:00'
 tags: []
 title: America's Cup World Series Naples Highlights
-slug: americas-cup-world-series-naples-highlights
 ---

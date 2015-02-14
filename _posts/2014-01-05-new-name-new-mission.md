@@ -5,7 +5,6 @@ tags:
 - solar
 - renewable energy
 title: New name, new mission
-slug: new-name-new-mission
 ---
 As some might have noticed we recently changed our name from the quite generic _Bluewater Project_ to _Picassol_. We've always felt that we didn't just want to go out sailing the oceans for the sake of sailing alone, but that we wanted to add something else to it. By the time the blog started we hadn't really figured out what that something could be, but now we do: 
 

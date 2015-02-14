@@ -8,5 +8,4 @@ date: '2014-11-11T16:13:43+01:00'
 tags:
 - boatbuilding
 title: Extending a catamaran by 1.5m.
-slug: extending-a-catamaran-by-1-5m
 ---

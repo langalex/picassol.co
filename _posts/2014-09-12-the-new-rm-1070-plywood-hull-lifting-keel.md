@@ -14,5 +14,4 @@ tags:
 - sailing
 title: The new RM 1070 – plywood hull, lifting keel option, fast, french. Vous risquez
   d'être séduit!
-slug: the-new-rm-1070-plywood-hull-lifting-keel
 ---

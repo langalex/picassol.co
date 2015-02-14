@@ -15,5 +15,4 @@ tags:
 title: 'A short documentary about David Welsford, who has given up the luxuries of
   land in search for happiness and adventure on a 50 year old wooden boat he restored
   from a scrap heap. '
-slug: a-short-documentary-about-david-welsford-who-has
 ---

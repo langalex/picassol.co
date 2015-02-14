@@ -15,5 +15,4 @@ title: |-
   The French have made a new sailing movie called [En Solitaire](http://ensolitaire-lefilm.com). In France it came out in November, here in Germany it will be released in April. It has been filmed on a real IMOCA 60 and out at sea — suddenly I'm a lot less excited about "All is lost" :D.
 
   P.S. they have a few [making-of videos](http://youtu.be/_Us_FhLhBzI) on YouTube.
-slug: the-french-have-made-a-new-sailing-movie-called-en
 ---

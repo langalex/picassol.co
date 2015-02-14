@@ -12,5 +12,4 @@ tags:
 - foiling
 title: Will we all be able to sail in foiling mode like this in a few years? I certainly
   wouldn’t mind.
-slug: will-we-all-be-able-to-sail-in-foiling-mode-like
 ---

@@ -6,5 +6,4 @@ layout: link
 date: '2013-05-12T12:37:14+02:00'
 tags: []
 title: The Restoration of Glissando
-slug: the-restoration-of-glissando
 ---

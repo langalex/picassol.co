@@ -13,5 +13,4 @@ tags:
 - sailing
 - naples
 title: America's Cup World Series 2013 Naples Day 2
-slug: americas-cup-world-series-2013-naples-day-2
 ---

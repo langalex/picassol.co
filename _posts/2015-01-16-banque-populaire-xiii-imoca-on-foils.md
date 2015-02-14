@@ -9,5 +9,4 @@ tags:
 - imoca
 - foils
 title: Banque Populaire XIII - IMOCA on foils
-slug: banque-populaire-xiii-imoca-on-foils
 ---

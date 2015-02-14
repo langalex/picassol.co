@@ -10,5 +10,4 @@ tags:
 - open60
 - vendeeglobe
 title: IMOCA in action
-slug: imoca-in-action
 ---

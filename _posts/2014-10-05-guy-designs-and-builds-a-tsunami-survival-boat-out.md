@@ -11,5 +11,4 @@ tags:
 - boatbuilding
 title: Guy designs and builds a tsunami survival boat out of plywood in his backyard.
   Pretty cool.
-slug: guy-designs-and-builds-a-tsunami-survival-boat-out
 ---

@@ -11,5 +11,4 @@ tags:
 - sun
 - hat
 title: KAVU Sun Hat - good for sailing?
-slug: kavu-sun-hat-good-for-sailing
 ---

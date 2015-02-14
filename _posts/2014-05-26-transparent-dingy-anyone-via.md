@@ -17,5 +17,4 @@ title: |-
   Transparent dingy anyone?
 
   (via)
-slug: transparent-dingy-anyone-via
 ---

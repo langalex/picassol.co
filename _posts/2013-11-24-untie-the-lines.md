@@ -3,7 +3,6 @@ layout: text
 date: '2013-11-24T14:23:00+01:00'
 tags: []
 title: Untie the lines
-slug: untie-the-lines
 ---
 <iframe width="640" height="380" src="//www.youtube.com/embed/SWyogErhPJU" frameborder="0" allowfullscreen></iframe>
 

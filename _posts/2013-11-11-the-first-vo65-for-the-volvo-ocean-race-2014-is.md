@@ -9,5 +9,4 @@ tags:
 - racing
 - volvo ocean race
 title: The first VO65 for the Volvo Ocean Race 2014 is ready.
-slug: the-first-vo65-for-the-volvo-ocean-race-2014-is
 ---

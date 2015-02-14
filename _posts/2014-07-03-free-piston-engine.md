@@ -7,7 +7,6 @@ tags:
 - electric
 - hybrid
 title: Free piston engine
-slug: free-piston-engine
 ---
 Toyota has come up with what it calls a [free piston engine](http://www.roadandtrack.com/go/out-of-turn-toyota-engine). It's an engine without a crankshaft, i.e. the pistons are not connected to anything (thus free) but instead there is a coil around each cylinder generating electricity when the piston moves.
 

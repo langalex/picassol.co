@@ -8,7 +8,6 @@ tags:
 - catamarans
 - naples
 title: America's Cup World Series in Naples
-slug: americas-cup-world-series-in-naples
 ---
 <p>This past weekend we went to Naples to watch the America&#8217;s Cup World Series.</p>
 

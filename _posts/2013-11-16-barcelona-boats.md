@@ -4,7 +4,6 @@ date: '2013-11-16T21:43:00+01:00'
 tags:
 - marina
 title: Barcelona Boats
-slug: barcelona-boats
 ---
 I spent a few days in Barcelona and paid the marinas a visit. Here's what I found:
 

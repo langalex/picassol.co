@@ -8,7 +8,6 @@ tags:
 - health
 - sailing
 title: Food for Passage
-slug: food-for-passage
 ---
 When on an ocean passage and the waves are too high again for proper cooking, a lot of people seem to resort to cookies and pasta for their meals. Or just-add-water powders from companies like [Mountain House](http://www.mountainhouse.com/), which again are mostly pasta.
 

@@ -7,5 +7,4 @@ layout: video
 date: '2013-11-08T08:42:36+01:00'
 tags: []
 title: How sails are made
-slug: how-sails-are-made
 ---

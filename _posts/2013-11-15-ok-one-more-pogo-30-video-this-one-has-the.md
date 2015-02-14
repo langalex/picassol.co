@@ -14,5 +14,4 @@ title: |-
   Ok one more Pogo 30 video. This one has the optional carbon fiber rig without backstays so they can have a [fat head main](http://bluewaterproject.org/post/50280518240/sails).
 
   Excuse me now I have to get back to counting how much money I can scrape together to buy one.
-slug: ok-one-more-pogo-30-video-this-one-has-the
 ---

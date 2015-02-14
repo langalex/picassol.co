@@ -7,5 +7,4 @@ layout: video
 date: '2014-06-14T21:26:00+02:00'
 tags: []
 title: Jeanneau Sun Fast 3600 — looks like a really nice and racey boat.
-slug: jeanneau-sun-fast-3600-looks-like-a-really-nice
 ---

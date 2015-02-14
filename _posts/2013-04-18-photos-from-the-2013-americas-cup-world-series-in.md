@@ -28,5 +28,4 @@ date: '2013-04-18T20:46:20+02:00'
 tags: []
 title: Photos from the 2013 America's Cup World Series in Naples. Taken with an iPhone
   and Binoculars.
-slug: photos-from-the-2013-americas-cup-world-series-in
 ---

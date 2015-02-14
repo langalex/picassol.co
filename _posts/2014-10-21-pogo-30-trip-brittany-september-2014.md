@@ -7,7 +7,6 @@ tags:
 - sailing
 - video
 title: Pogo 30 Trip, Brittany, September 2014
-slug: pogo-30-trip-brittany-september-2014
 ---
 In September we went to France for a week, sailing on the Pogo 30 "Avel Biz" (does anyone know what that means?), a 30ft cruiser-racer with an emphasis on racing. Sailing was great fun - every day was sunny and around 15 knots of wind. The boat sails great and we got to play around with the asymmetric a lot. Here's the video I made:
 

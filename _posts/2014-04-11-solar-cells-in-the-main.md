@@ -8,7 +8,6 @@ tags:
 - sail
 - green energy
 title: Solar cells in the main
-slug: solar-cells-in-the-main
 ---
 ![](https://31.media.tumblr.com/439c97134648cb7d04b6cbc2043832d0/tumblr_inline_n3uyshrLg01qcydz0.jpg)
 

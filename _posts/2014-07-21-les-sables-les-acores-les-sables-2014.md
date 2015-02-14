@@ -10,5 +10,4 @@ tags:
 - sailing
 - race
 title: Les Sables - Les Açores - Les Sables 2014
-slug: les-sables-les-acores-les-sables-2014
 ---

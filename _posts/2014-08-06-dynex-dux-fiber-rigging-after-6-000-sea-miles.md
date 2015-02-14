@@ -8,5 +8,4 @@ tags:
 - fiber
 - gear
 title: Dynex Dux fiber rigging after 6,000 sea miles
-slug: dynex-dux-fiber-rigging-after-6-000-sea-miles
 ---

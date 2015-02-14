@@ -8,5 +8,4 @@ layout: video
 date: '2014-02-23T14:24:27+01:00'
 tags: []
 title: Between Places - sailing, climbing, skiing...
-slug: between-places-sailing-climbing-skiing
 ---

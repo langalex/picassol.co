@@ -7,7 +7,6 @@ tags:
 - video
 - imoca
 title: 'Nomad IV: World''s fastest cruising yacht'
-slug: nomad-iv-worlds-fastest-cruising-yacht
 ---
 <iframe frameborder="0" width="480" height="270" src="//www.dailymotion.com/embed/video/x217pjp" allowfullscreen></iframe>
 

@@ -5,7 +5,6 @@ tags:
 - mini650
 - build
 title: Going smaller, going Mini
-slug: going-smaller-going-mini
 ---
 I have to announce a bit of a change to the project. Over lots of thinking and talking during the past weeks it has become clear that while building a 9.5m boat on 1-2 days/week would be doable over the course of 2-3 years, it would stretch my free time as well as my financial resources considerably. Also, it would take a very long time until I could actually use the boat. In addition I realized that I don't really have a good plan what I would do with the boat - given that I have a company to run I don't think I'd be leaving for any long term cruises any time soon.
 

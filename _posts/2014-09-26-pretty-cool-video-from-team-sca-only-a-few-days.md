@@ -12,5 +12,4 @@ tags:
 - video
 title: Pretty cool video from Team SCA. Only a few days until the Volvo Ocean Race
   starts.
-slug: pretty-cool-video-from-team-sca-only-a-few-days
 ---

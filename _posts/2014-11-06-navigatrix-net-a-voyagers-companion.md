@@ -7,5 +7,4 @@ tags:
 - software
 - navigation
 title: Navigatrix.net - A Voyager's Companion
-slug: navigatrix-net-a-voyagers-companion
 ---

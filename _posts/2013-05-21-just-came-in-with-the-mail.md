@@ -10,5 +10,4 @@ tags:
 - boats
 - book
 title: Just came in with the mail
-slug: just-came-in-with-the-mail
 ---

@@ -5,5 +5,4 @@ layout: link
 date: '2014-07-03T20:44:56+02:00'
 tags: []
 title: Another ocean cleanup project
-slug: another-ocean-cleanup-project
 ---

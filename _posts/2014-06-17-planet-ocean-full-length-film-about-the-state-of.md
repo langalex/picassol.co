@@ -7,5 +7,4 @@ layout: video
 date: '2014-06-17T11:55:43+02:00'
 tags: []
 title: Planet Ocean - full-length film about the state of the oceans
-slug: planet-ocean-full-length-film-about-the-state-of
 ---

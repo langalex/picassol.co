@@ -7,5 +7,4 @@ layout: video
 date: '2013-11-17T00:21:31+01:00'
 tags: []
 title: BBC documentary about the 1979 Fastnet tragedy
-slug: bbc-documentary-about-the-1979-fastnet-tragedy
 ---

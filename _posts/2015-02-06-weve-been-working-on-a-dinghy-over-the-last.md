@@ -33,5 +33,4 @@ tags:
 title: |-
   We’ve been working on a Dinghy over the last holidays but haven’t been able to complete it in time. So now progress is a bit slower with only the weekends available.
   The hull is almost done though. Next steps are coating it in 2 layers of epoxy, then sawing it in its two halves, then painting.
-slug: weve-been-working-on-a-dinghy-over-the-last
 ---

@@ -6,7 +6,6 @@ tags:
 - money
 - sailing
 title: Sponsoring
-slug: sponsoring
 ---
 Sailing and sponsoring have been connected for a long time. Due to the ridiculous cost involved, especially in racing, it would be close to impossible to join something like the Vendée Globe without any sponsors. According to [this post joining the race will cost around €2.2 to 2.5 mio.](http://www.vendeeglobe.org/fr/actualites/article/977/how-much-does-it-cost-to-take-part-in-the-vendee-globe.html) – not something the average sailor can pull out of her savings account.
 

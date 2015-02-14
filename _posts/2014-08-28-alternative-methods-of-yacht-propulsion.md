@@ -8,7 +8,6 @@ tags:
 - electric
 - generator
 title: Alternative methods of Yacht Propulsion
-slug: alternative-methods-of-yacht-propulsion
 ---
 If at all possible I really want to avoid putting a stinking noisy Diesel engine into my boat, so I'm looking for alternatives.
 

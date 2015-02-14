@@ -9,5 +9,4 @@ date: '2014-02-15T20:38:25+01:00'
 tags: []
 title: Spent the day watching this epic 2.5h documentary of the 2008/09 Volvo Ocean
   Race. Well worth it.
-slug: spent-the-day-watching-this-epic-2-5h-documentary
 ---

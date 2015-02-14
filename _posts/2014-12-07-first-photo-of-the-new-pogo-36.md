@@ -10,5 +10,4 @@ date: '2014-12-07T18:57:29+01:00'
 tags:
 - pogo 36
 title: First "photo" of the new Pogo 36.
-slug: first-photo-of-the-new-pogo-36
 ---

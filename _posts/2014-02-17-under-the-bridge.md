@@ -8,5 +8,4 @@ layout: video
 date: '2014-02-17T23:14:10+01:00'
 tags: []
 title: Under the bridge
-slug: under-the-bridge
 ---

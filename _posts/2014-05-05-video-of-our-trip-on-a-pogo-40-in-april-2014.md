@@ -11,5 +11,4 @@ tags:
 - sailing
 - north sea
 title: Video of our trip on a Pogo 40 in April 2014.
-slug: video-of-our-trip-on-a-pogo-40-in-april-2014
 ---

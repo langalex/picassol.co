@@ -9,5 +9,4 @@ tags:
 - mini650
 - build
 title: Dudley Dix Mini Mk3 being built in Dubai
-slug: dudley-dix-mini-mk3-being-built-in-dubai
 ---

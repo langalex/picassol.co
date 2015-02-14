@@ -7,5 +7,4 @@ layout: video
 date: '2013-05-05T11:21:27+02:00'
 tags: []
 title: Start of the 2012 Vendée Globe
-slug: start-of-the-2012-vendee-globe
 ---

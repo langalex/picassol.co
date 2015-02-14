@@ -11,5 +11,4 @@ tags:
 - boat building
 title: The kit for building the Eastport Pram has arrived. In two weeks these boxes
   full of plywood will have turned into a cute little rowing boat.
-slug: the-kit-for-building-the-eastport-pram-has
 ---

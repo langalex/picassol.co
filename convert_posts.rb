@@ -69,7 +69,7 @@ posts.each do |post|
   )
   date = Date.parse(post[:date]).to_s
   header[:title] = title = Nokogiri::HTML(title).text
-  header[:slug] = slug = if post[:slug] && post[:slug].strip != ""
+  slug = if post[:slug] && post[:slug].strip != ""
     post[:slug]
   else
     slug = title.downcase.strip.gsub(' ', '-').gsub(/[^\w-]/, '')

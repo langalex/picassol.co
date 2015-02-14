@@ -7,5 +7,4 @@ layout: video
 date: '2013-11-12T14:42:24+01:00'
 tags: []
 title: A tour around Skip Novak's high latitude expedition yachts.
-slug: a-tour-around-skip-novaks-high-latitude
 ---

@@ -7,5 +7,4 @@ layout: video
 date: '2014-08-30T17:56:12+02:00'
 tags: []
 title: Team Concise Open 40
-slug: team-concise-open-40
 ---

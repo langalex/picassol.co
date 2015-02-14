@@ -7,7 +7,6 @@ tags:
 - boats
 - waterworld
 title: Waterworld
-slug: waterworld
 ---
 <iframe width="560" height="315" src="http://www.youtube.com/embed/d7LAN_FB1Nc?rel=0" frameborder="0" allowfullscreen></iframe>
 

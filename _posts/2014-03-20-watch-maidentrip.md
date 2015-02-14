@@ -7,7 +7,6 @@ tags:
 - maidentrip
 - laura dekker
 title: Watch Maidentrip
-slug: watch-maidentrip
 ---
 <iframe width="560" height="315" src="//www.youtube.com/embed/04z3dS6P60g" frameborder="0" allowfullscreen></iframe>
 

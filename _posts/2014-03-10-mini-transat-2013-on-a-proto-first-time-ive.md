@@ -16,5 +16,4 @@ title: |-
   Mini Transat 2013 on a Proto
 
   First time I've seen a canting keel on a mini.
-slug: mini-transat-2013-on-a-proto-first-time-ive
 ---

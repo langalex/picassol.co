@@ -10,5 +10,4 @@ tags:
 - electric
 - propulsion
 title: Oceanvolt
-slug: oceanvolt
 ---

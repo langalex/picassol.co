@@ -15,5 +15,4 @@ title: |-
   Here's another video of the new [Pogo 30](http://www.finot-conq.com/en/content/pogo-30). From what I have seen this is a truly amazing boat, and at "only" €85,000 a true bargain (ok it's only 30ft instead of the 40ft I originally wanted). I might have to sell my house right away and buy it. Oh wait, I don't have a house. :(
 
   Anyway, there's also a review in the December 2013 issue of Yachting World with a number of photos, and they are just excited about it as I am. Waaah.
-slug: heres-another-video-of-the-new-pogo-30-from-what
 ---

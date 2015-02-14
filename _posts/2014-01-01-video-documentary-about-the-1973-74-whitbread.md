@@ -7,5 +7,4 @@ layout: video
 date: '2014-01-01T16:37:43+01:00'
 tags: []
 title: Video documentary about the 1973/74 Whitbread Race.
-slug: video-documentary-about-the-1973-74-whitbread
 ---

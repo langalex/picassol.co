@@ -6,5 +6,4 @@ layout: link
 date: '2014-06-28T12:40:38+02:00'
 tags: []
 title: 'OPEN 60 REFIT: Great American IV Ready to Sail'
-slug: open-60-refit-great-american-iv-ready-to-sail
 ---

@@ -7,6 +7,5 @@ tags:
 - offshore
 title: The best sail-management ideas for us come from the shorthanded, long-distance
   offshore boats that compete in the Around Alone and Vendée Globe races.
-slug: the-best-sail-management-ideas-for-us-come-from
 ---
 > The best sail-management ideas for us come from the shorthanded, long-distance offshore boats that compete in the Around Alone and Vendée Globe races.&#8212; The Voyager's Handbook

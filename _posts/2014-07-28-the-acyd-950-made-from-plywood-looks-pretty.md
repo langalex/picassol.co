@@ -14,5 +14,4 @@ tags:
 - yacht
 title: The ACYD 950, made from plywood. Looks pretty close to a Pogo 30 that you could
   build yourself. 2.7t displacement, 9.5m LOA, Category A, unsinkable.  Hmmmm...
-slug: the-acyd-950-made-from-plywood-looks-pretty
 ---

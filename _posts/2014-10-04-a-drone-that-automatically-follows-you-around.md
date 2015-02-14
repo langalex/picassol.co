@@ -11,5 +11,4 @@ tags:
 - video
 title: A drone that automatically follows you around - that would be pretty cool for
   sailing.
-slug: a-drone-that-automatically-follows-you-around
 ---

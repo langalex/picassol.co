@@ -6,7 +6,6 @@ tags:
 - film
 - documentary
 title: Racing around the World Alone – Vendée Globe documentary
-slug: racing-around-the-world-alone-vendee-globe
 ---
 <iframe width="560" height="315" src="//www.youtube.com/embed/B9eaOsFcX4c" frameborder="0" allowfullscreen></iframe>
 

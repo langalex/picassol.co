@@ -5,7 +5,6 @@ tags:
 - yacht design
 - concept
 title: Harryproa
-slug: harryproa
 ---
 [![Solitarry 15m](https://31.media.tumblr.com/d00d0f0890e05aac79207ab1bb36f8a0/tumblr_inline_ne42wj4zly1qcydz0.png)](http://harryproa.com/index.php/design/20-racing/11-concept-designs)
 

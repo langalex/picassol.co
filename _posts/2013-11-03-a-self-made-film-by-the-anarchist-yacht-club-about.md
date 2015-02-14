@@ -12,5 +12,4 @@ tags:
 title: A self-made film by the [Anarchist Yacht Club](http://blueanarchy.org/) about
   their sailing trip from Florida to the Dominican Republic - anarchist style in a
   tiny old boat, without engine. Such a great video to watch.
-slug: a-self-made-film-by-the-anarchist-yacht-club-about
 ---
