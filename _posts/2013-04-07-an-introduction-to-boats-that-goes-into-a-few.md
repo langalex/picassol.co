@@ -1,9 +1,9 @@
 ---
-:layout: text
-:date: '2013-04-07T18:14:00+02:00'
-:tags: []
-:title: An introduction to boats that goes into a few interesting details
-:slug: an-introduction-to-boats-that-goes-into-a-few
+layout: text
+date: '2013-04-07T18:14:00+02:00'
+tags: []
+title: An introduction to boats that goes into a few interesting details
+slug: an-introduction-to-boats-that-goes-into-a-few
 ---
 <p>One of the essential pieces of equipment you need when going sailing is <em>drumroll</em> a boat. And for a long trip like a circumnavigation that can easily last 3 years you better buy your own. But what kind of boat? Mono or multihull, which material, new or used, big or small, slow or fast, and what can you afford?</p>
 

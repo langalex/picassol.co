@@ -1,13 +1,13 @@
 ---
-:layout: text
-:date: '2013-05-09T13:43:00+02:00'
-:tags:
+layout: text
+date: '2013-05-09T13:43:00+02:00'
+tags:
 - film
 - trimaran
 - boats
 - waterworld
-:title: Waterworld
-:slug: waterworld
+title: Waterworld
+slug: waterworld
 ---
 <iframe width="560" height="315" src="http://www.youtube.com/embed/d7LAN_FB1Nc?rel=0" frameborder="0" allowfullscreen></iframe>
 

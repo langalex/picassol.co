@@ -73,6 +73,6 @@ posts.each do |post|
   end
   filename = "_posts/#{date}-#{slug}.md"
   File.open filename, 'w' do |f|
-    f.puts header.to_yaml + "---\n" + content.to_s
+    f.puts JSON.parse(header.to_json).to_yaml + "---\n" + content.to_s
   end
 end

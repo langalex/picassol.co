@@ -1,9 +1,9 @@
 ---
-:layout: text
-:date: '2015-01-21T10:35:13+01:00'
-:tags: []
-:title: Docking when short-handed
-:slug: docking-when-short-handed
+layout: text
+date: '2015-01-21T10:35:13+01:00'
+tags: []
+title: Docking when short-handed
+slug: docking-when-short-handed
 ---
 Yesterday I stumbled upon a post titled [The day our 56’ yacht was almost smashed to pieces](http://www.sailingbritican.com/comradeship-amongst-sailors/) on Sailing Britican, and it reminded me that I had been wanting to write a post about docking for a while. Here it is.
 

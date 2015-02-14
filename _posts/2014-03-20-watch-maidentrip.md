@@ -1,13 +1,13 @@
 ---
-:layout: text
-:date: '2014-03-20T11:21:38+01:00'
-:tags:
+layout: text
+date: '2014-03-20T11:21:38+01:00'
+tags:
 - movie
 - sailing
 - maidentrip
 - laura dekker
-:title: Watch Maidentrip
-:slug: watch-maidentrip
+title: Watch Maidentrip
+slug: watch-maidentrip
 ---
 <iframe width="560" height="315" src="//www.youtube.com/embed/04z3dS6P60g" frameborder="0" allowfullscreen></iframe>
 

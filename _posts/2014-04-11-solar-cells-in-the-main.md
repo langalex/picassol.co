@@ -1,14 +1,14 @@
 ---
-:layout: text
-:date: '2014-04-11T10:42:27+02:00'
-:tags:
+layout: text
+date: '2014-04-11T10:42:27+02:00'
+tags:
 - solar
 - cells
 - yacht
 - sail
 - green energy
-:title: Solar cells in the main
-:slug: solar-cells-in-the-main
+title: Solar cells in the main
+slug: solar-cells-in-the-main
 ---
 ![](https://31.media.tumblr.com/439c97134648cb7d04b6cbc2043832d0/tumblr_inline_n3uyshrLg01qcydz0.jpg)
 

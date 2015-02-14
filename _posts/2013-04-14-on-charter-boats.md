@@ -1,11 +1,11 @@
 ---
-:layout: text
-:date: '2013-04-14T18:10:00+02:00'
-:tags:
+layout: text
+date: '2013-04-14T18:10:00+02:00'
+tags:
 - charter
 - bavaria
-:title: On Charter Boats
-:slug: on-charter-boats
+title: On Charter Boats
+slug: on-charter-boats
 ---
 A few days ago I confirmed the charter for [Inschallah](http://www.inschallah-sailing-team.at/schiff.html), a 49ft  (15m) Sun Odyssey. We'll be sailing her along the coast of Croatia with a crew of nine for one week in August.
 

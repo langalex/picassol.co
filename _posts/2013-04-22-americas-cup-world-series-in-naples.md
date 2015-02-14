@@ -1,14 +1,14 @@
 ---
-:layout: text
-:date: '2013-04-22T17:04:36+02:00'
-:tags:
+layout: text
+date: '2013-04-22T17:04:36+02:00'
+tags:
 - acws
 - americas cup
 - racing
 - catamarans
 - naples
-:title: America's Cup World Series in Naples
-:slug: americas-cup-world-series-in-naples
+title: America's Cup World Series in Naples
+slug: americas-cup-world-series-in-naples
 ---
 <p>This past weekend we went to Naples to watch the America&#8217;s Cup World Series.</p>
 

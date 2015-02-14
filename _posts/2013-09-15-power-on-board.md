@@ -1,12 +1,12 @@
 ---
-:layout: text
-:date: '2013-09-15T16:41:00+02:00'
-:tags:
+layout: text
+date: '2013-09-15T16:41:00+02:00'
+tags:
 - power
 - hydro generator
 - yacht
-:title: Power on board
-:slug: power-on-board
+title: Power on board
+slug: power-on-board
 ---
 ![](http://media.tumblr.com/0ba01de044c5fa328d49d378b783c3a1/tumblr_inline_mt6934VV9j1qcydz0.jpg)
 

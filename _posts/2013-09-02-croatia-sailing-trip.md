@@ -1,12 +1,12 @@
 ---
-:layout: text
-:date: '2013-09-03T00:30:00+02:00'
-:tags:
+layout: text
+date: '2013-09-03T00:30:00+02:00'
+tags:
 - Croatia
 - sailing
 - Kornati
-:title: Croatia Sailing Trip
-:slug: croatia-sailing-trip
+title: Croatia Sailing Trip
+slug: croatia-sailing-trip
 ---
 I just came back from a one-week sailing trip in Croatia. Having invited 8 1/2 friends (the 1/2 being 17 months old) we spent six leisurely days sailing the Kornati Archipelago in mostly light winds. My two personal projects were to get a bit more involved in boat maintenance and hoisting the spinnaker.
 

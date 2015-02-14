@@ -1,9 +1,9 @@
 ---
-:layout: text
-:date: '2013-07-02T22:22:04+02:00'
-:tags: []
-:title: The Voyager's Handbook
-:slug: the-voyagers-handbook
+layout: text
+date: '2013-07-02T22:22:04+02:00'
+tags: []
+title: The Voyager's Handbook
+slug: the-voyagers-handbook
 ---
 I recently finished reading [The Voyager's Handbook](http://www.amazon.com/The-Voyagers-Handbook-Essential-Cruising/dp/0071437657/ref=sr_1_1?ie=UTF8&qid=1372751968&sr=8-1&keywords=the+voyagers+handbook), a guide for liveaboard sailors and those who want to become ones. The book is written by Beth Leonard who has been been sailing together with her husband Evans for over a decade now, first in their 37 foot ketch _Silk_ for three years and then on a 47 foot sloop _Hawk_ that they built themselves.
 

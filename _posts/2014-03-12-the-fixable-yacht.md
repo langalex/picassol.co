@@ -1,15 +1,15 @@
 ---
-:layout: text
-:date: '2014-03-12T10:05:56+01:00'
-:tags:
+layout: text
+date: '2014-03-12T10:05:56+01:00'
+tags:
 - auto pilot
 - open source
 - sailing
 - yacht
 - electronics
 - marine
-:title: The fixable yacht
-:slug: the-fixable-yacht
+title: The fixable yacht
+slug: the-fixable-yacht
 ---
 As a regular reader of segelreporter.com, last week I [stumbled upon this post](http://segelreporter.com/panorama/bootsbau-entwicklung-eines-kleinkreuzers/) (German) about a bunch of people having started to design their own boat. The plan is to make it around 25ft long, fast, fun and ocean going; and the design is going to be open source, which means anyone will be able to use it to either build their own boat, as a basis for a modified design etc.
 

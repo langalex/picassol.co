@@ -1,14 +1,14 @@
 ---
-:layout: text
-:date: '2014-08-28T10:53:57+02:00'
-:tags:
+layout: text
+date: '2014-08-28T10:53:57+02:00'
+tags:
 - sailing
 - propulsion
 - hybrid
 - electric
 - generator
-:title: Alternative methods of Yacht Propulsion
-:slug: alternative-methods-of-yacht-propulsion
+title: Alternative methods of Yacht Propulsion
+slug: alternative-methods-of-yacht-propulsion
 ---
 If at all possible I really want to avoid putting a stinking noisy Diesel engine into my boat, so I'm looking for alternatives.
 

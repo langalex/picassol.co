@@ -1,11 +1,11 @@
 ---
-:layout: text
-:date: '2014-01-26T17:28:00+01:00'
-:tags:
+layout: text
+date: '2014-01-26T17:28:00+01:00'
+tags:
 - boot
 - fair
-:title: Photos and impressions from Boot Düsseldorf 2014
-:slug: photos-and-impressions-from-boot-dusseldorf-2014
+title: Photos and impressions from Boot Düsseldorf 2014
+slug: photos-and-impressions-from-boot-dusseldorf-2014
 ---
 We spent the last weekend in Düsseldorf at the [Boot](http://www.boat-duesseldorf.com/) boat show, taking a look at new boats and gear, but also uncovering a few interesting green boating projects. Here comes:
 

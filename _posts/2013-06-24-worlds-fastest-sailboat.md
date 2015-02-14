@@ -1,13 +1,13 @@
 ---
-:layout: text
-:date: '2013-06-24T10:44:49+02:00'
-:tags:
+layout: text
+date: '2013-06-24T10:44:49+02:00'
+tags:
 - canting keel
 - speed
 - sailing
 - foils
-:title: World's fastest Sailboat
-:slug: worlds-fastest-sailboat
+title: World's fastest Sailboat
+slug: worlds-fastest-sailboat
 ---
 <iframe width="560" height="315" src="http://www.youtube.com/embed/S3mQNLTuJRI?rel=0" frameborder="0" allowfullscreen></iframe>
 

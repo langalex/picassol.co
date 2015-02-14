@@ -1,13 +1,13 @@
 ---
-:layout: text
-:date: '2013-04-02T10:21:00+02:00'
-:tags:
+layout: text
+date: '2013-04-02T10:21:00+02:00'
+tags:
 - sailing
 - circumnavigation
 - yachting
 - cruising
-:title: Hello World
-:slug: hello-world
+title: Hello World
+slug: hello-world
 ---
 This is the blue water project. At the moment it's only an idea, a dream. A dream to one day sail across the oceans, to sunbathe in a light breeze and endure the worst thunderstorm, to find paradise but to enjoy the journey to get there, to live an independent and simple life, with few possessions but rich in experiences.
 

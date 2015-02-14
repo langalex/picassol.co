@@ -1,9 +1,9 @@
 ---
-:layout: text
-:date: '2013-11-17T22:40:16+01:00'
-:tags: []
-:title: 'Reading corner: Vendée Globe'
-:slug: reading-corner-vendee-globe
+layout: text
+date: '2013-11-17T22:40:16+01:00'
+tags: []
+title: 'Reading corner: Vendée Globe'
+slug: reading-corner-vendee-globe
 ---
 ![](http://media.tumblr.com/d932a53eb858d879776ceed3483654a1/tumblr_inline_mwffx6WRkL1qcydz0.jpg)
 

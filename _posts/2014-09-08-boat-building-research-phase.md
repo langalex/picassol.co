@@ -1,12 +1,12 @@
 ---
-:layout: text
-:date: '2014-09-08T21:33:00+02:00'
-:tags:
+layout: text
+date: '2014-09-08T21:33:00+02:00'
+tags:
 - boat building
 - sailing
 - didi950
-:title: 'Boat building: research phase'
-:slug: boat-building-research-phase
+title: 'Boat building: research phase'
+slug: boat-building-research-phase
 ---
 So, [building my own boat](http://picassol.co/post/93694168337/building-my-own-boat) would be pretty cool. I've put my fingers on a class 950 fast cruiser, namely the Didi 950 - made from plywood and epoxy ([the first hull just got turned](http://dudleydix.blogspot.de/2014/09/didi-950-up-and-over.html)). The next question is: can I do it, and if yes, how long will it take and how much will it cost?
 

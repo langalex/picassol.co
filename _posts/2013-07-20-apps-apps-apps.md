@@ -1,9 +1,9 @@
 ---
-:layout: text
-:date: '2013-07-20T12:01:31+02:00'
-:tags: []
-:title: Apps Apps Apps
-:slug: apps-apps-apps
+layout: text
+date: '2013-07-20T12:01:31+02:00'
+tags: []
+title: Apps Apps Apps
+slug: apps-apps-apps
 ---
 Apart from looking at pictures and videos of sailing boats I spend a lot of my waking time as a programmer working on a software called [Cobot](http://cobot.me), which Coworking spaces all over the world use to manage themselves. The rest of the time I dream up apps I want to write and some have to do with sailing.
 

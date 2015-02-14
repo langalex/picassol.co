@@ -1,9 +1,9 @@
 ---
-:layout: text
-:date: '2013-08-12T15:53:00+02:00'
-:tags: []
-:title: Carbon Fiber
-:slug: carbon-fiber
+layout: text
+date: '2013-08-12T15:53:00+02:00'
+tags: []
+title: Carbon Fiber
+slug: carbon-fiber
 ---
 Continuing my interest in [building things](http://bluewaterproject.org/post/55245326201/3d-printing), this week we are going to look into a class of materials I find particularly interesting: carbon fiber composites.
 

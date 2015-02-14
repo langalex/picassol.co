@@ -1,12 +1,12 @@
 ---
-:layout: text
-:date: '2014-06-15T00:05:00+02:00'
-:tags:
+layout: text
+date: '2014-06-15T00:05:00+02:00'
+tags:
 - vendee globe
 - film
 - documentary
-:title: Racing around the World Alone – Vendée Globe documentary
-:slug: racing-around-the-world-alone-vendee-globe
+title: Racing around the World Alone – Vendée Globe documentary
+slug: racing-around-the-world-alone-vendee-globe
 ---
 <iframe width="560" height="315" src="//www.youtube.com/embed/B9eaOsFcX4c" frameborder="0" allowfullscreen></iframe>
 

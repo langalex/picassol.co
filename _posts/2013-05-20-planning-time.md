@@ -1,9 +1,9 @@
 ---
-:layout: text
-:date: '2013-05-20T22:13:39+02:00'
-:tags: []
-:title: Planning Time
-:slug: planning-time
+layout: text
+date: '2013-05-20T22:13:39+02:00'
+tags: []
+title: Planning Time
+slug: planning-time
 ---
 Until this point this blog has been very theoretical. I've talked about boats, other people and race events, but not much about us yet. Time to change that. Time to make some plans.
 

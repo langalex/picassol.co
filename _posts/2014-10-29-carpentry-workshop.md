@@ -1,14 +1,14 @@
 ---
-:layout: text
-:date: '2014-10-29T17:53:44+01:00'
-:tags:
+layout: text
+date: '2014-10-29T17:53:44+01:00'
+tags:
 - carpentry
 - workshop
 - boat building
 - plywood
 - furniture
-:title: Carpentry workshop
-:slug: carpentry-workshop
+title: Carpentry workshop
+slug: carpentry-workshop
 ---
 Today was the first day of a 4 day carpentry workshop I'm doing this week. The idea is to get some more experience in working with wood before attempting such things as building a 9.5m yacht.
 
