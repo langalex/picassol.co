@@ -1,9 +1,9 @@
 ---
 caption: Just came in with the mail
 photos:
-- url: "/tumblr_files/tumblr_mn52f8AwgI1sn37g2o1_1280.jpg"
+- url: "/photos/tumblr_mn52f8AwgI1sn37g2o1_1280.jpg"
   caption: ''
-photo: "/tumblr_files/tumblr_mn52f8AwgI1sn37g2o1_1280.jpg"
+photo: "/photos/tumblr_mn52f8AwgI1sn37g2o1_1280.jpg"
 layout: photo
 date: '2013-05-21T10:04:20+02:00'
 tags:

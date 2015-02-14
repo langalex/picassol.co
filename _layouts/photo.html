@@ -8,7 +8,7 @@ layout: default
   </header>
 
   <div class="post-content">
-    <p>{{ page.caption | markdown }}</p>
+    <p>{{ page.caption | markdownify }}</p>
     {% for photo in page.photos %}
       <div class="photo">
         <img src="{{photo.url}}">

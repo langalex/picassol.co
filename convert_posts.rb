@@ -12,8 +12,8 @@ def fetch_photo(post)
 end
 
 def save_photo(url)
-  path = "tumblr_files/#{url.split('/').last}"
-  FileUtils.mkdir_p "tumblr_files"
+  path = "photos/#{url.split('/').last}"
+  FileUtils.mkdir_p "photoss"
 
   # Don't fetch if we've already cached this file
   unless File.size? path
