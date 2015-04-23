@@ -4,7 +4,15 @@ title: Videos
 permalink: /videos/
 ---
 
-Here are a few videos I've made over the years:
+## Boat building
+
+Here are the videos of me building the boat:
+
+<iframe src="http://www.youtube.com/embed/?listType=user_uploads&list=langalex" width="480" height="400"></iframe>
+
+## Trips
+
+Here are a few videos of sailing trips I've made over the years:
 
 ### Pogo 30 Trip Brittany 2014
 

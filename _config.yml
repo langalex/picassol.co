@@ -5,6 +5,7 @@ description: Picassol is an offshore sailing yacht that only relies on renewable
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://picassol.co" # the base hostname & protocol for your site
 twitter_username: picassolsailing
+facebook_pagename: picassol
 encoding: utf-8
 markdown: kramdown
 paginate: 15
