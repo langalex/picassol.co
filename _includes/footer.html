@@ -15,23 +15,33 @@
       <div class="footer-col footer-col-2">
         <ul class="social-media-list">
           {% if site.twitter_username %}
-          <li>
-            <a href="https://twitter.com/{{ site.twitter_username }}">
-              <i class="svg-icon twitter"></i>
+            <li>
+              <a href="https://twitter.com/{{ site.twitter_username }}">
+                <i class="svg-icon twitter"></i>
 
-              <span class="username">{{ site.twitter_username }}</span>
-            </a>
-          </li>
+                <span class="username">{{ site.twitter_username }}</span>
+              </a>
+            </li>
           {% endif %}
           {% if site.facebook_pagename %}
-          <li>
-            <a href="https://facebook.com/{{ site.facebook_pagename }}">
-              <i class="svg-icon facebook"></i>
+            <li>
+              <a href="https://facebook.com/{{ site.facebook_pagename }}">
+                <i class="svg-icon facebook"></i>
 
-              <span class="username">{{ site.facebook_pagename }}</span>
-            </a>
-          </li>
+                <span class="username">{{ site.facebook_pagename }}</span>
+              </a>
+            </li>
           {% endif %}
+          {% if site.youtube_channel %}
+            <li>
+              <a href="{{ site.youtube_channel_url }}">
+                <i class="svg-icon youtube"></i>
+
+                <span class="username">{{ site.youtube_channel }}</span>
+              </a>
+            </li>
+          {% endif %}
+
         </ul>
       </div>
 

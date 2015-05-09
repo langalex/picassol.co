@@ -6,6 +6,8 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://picassol.co" # the base hostname & protocol for your site
 twitter_username: picassolsailing
 facebook_pagename: picassol
+youtube_channel: picassol
+youtube_channel_url: "https://www.youtube.com/channel/UCkALdGwfCY_CDQNQ-tHz1AQ"
 encoding: utf-8
 markdown: kramdown
 paginate: 15
