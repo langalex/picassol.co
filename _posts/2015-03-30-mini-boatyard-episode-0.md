@@ -8,5 +8,5 @@ date: '2015-03-30T00:00:00+01:00'
 tags:
 - boatbuilding
 - miniboatyard
-title: Mini Boatyard Episode 0 - building a workshop table
+title: Mini Boat Yard Episode 0 - building a workshop table
 ---
