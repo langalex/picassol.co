@@ -13,7 +13,7 @@ title: Single handed training weekend
 
 I just came back from a weekend of single handed sailing training in Heiligenhafen at the Baltic Sea. Organized by German Yacht Magazine, us 12 participants were joined by three coaches, all Mini Transat veterans:
 
-* [Boris Herrmann](http://www.borisherrmannracing.com), professional sailor, currently hunting records on boats such as Maserati and Lending Club.
+* [Boris Herrmann](http://www.borisherrmannracing.com), professional sailor, currently hunting records on boats such as Maserati and [Lending Club 2](https://www.facebook.com/LendingClubSailing).
 * [Henrik Masekowitz](http://mini650.de), just won the [Azores and Back regatta](http://azab.co.uk/
 ) on his Class 40 - single handed.
 * Andraž Mihelin, founder of [Seascape](http://www.thinkseascape.com).
