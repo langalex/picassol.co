@@ -62,11 +62,9 @@ Soft loops instead of shackles and metal eyes
 
 [Dynex Dux](http://www.sailmagazine.com/boatworks/dynex-dux-across-atlantic) dyneema standing rigging - lighter and stronger than wire
 
-
 <iframe src="https://player.vimeo.com/video/105951489?portrait=0" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 [Pontos](http://pontos.fr) 4-speed winches
-
 
 <iframe src="https://player.vimeo.com/video/107277089" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
@@ -75,6 +73,14 @@ Soft loops instead of shackles and metal eyes
 ![Nub](/photos/nub.jpg)
 
 [Nub](http://nub-connectics.com/nub%C2%AE-system.html) friction block
+
+<img src="/photos/synthetic-shrouds.jpg" width="400" alt="composite chainplate">
+
+[Composite chainplates](/2015/10/04/composite-chainplates.html)
+
+![Tack Shackle](/photos/tack-shackle.jpg)
+
+[Tylaska Tack Shackle](http://www.tylaska.com/index.php/snap-shackles/tack-shackle/) sewn directly in to the sail.
 
 * Titanium screws/backplates - they never rust
 * [Jurgan Tool-Free Clevis Pin](http://www.crealock.com)
