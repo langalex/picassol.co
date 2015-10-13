@@ -95,6 +95,7 @@ Soft loops instead of shackles and metal eyes
 ## Anchoring
 
 * [Mantus chain hook](http://mantusanchors.com/mantus-chain-hook/) - to attach snubber to anchor chain
+* [Hamaka](http://www.hamaka.de) ultralight hammock
 
 ## Propulsion
 
