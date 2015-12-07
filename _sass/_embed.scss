@@ -1,0 +1,35 @@
+/**
+ * Responsive embed:
+ *
+ *  Wrap an `iframe` with a video in a `div.video-container` to make it responsive.
+ *  Add `.video-4-3` for a 4:3 video or `.video-16-9` for a 16:9 video. Taken from http://www.smashingmagazine.com/2014/02/making-embedded-content-work-in-responsive-design/
+ *
+ *     @example
+ *     div.video-container.video-16-9
+ *       iframe
+ */
+
+.video-container {
+    position: relative;
+
+    padding-top: 35px;
+    height: 0;
+    overflow: hidden;
+    margin-bottom: 1em;
+
+    &.video-4-3 {
+      padding-bottom: 75%;
+    }
+
+    &.video-16-9 {
+      padding-bottom: 56.25%;
+    }
+
+    iframe {
+      position: absolute;
+      top:0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+  }
+}

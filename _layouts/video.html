@@ -8,8 +8,7 @@ layout: default
   </header>
 
   <div class="post-content" itemprop="articleBody">
-    {{ page.player }}
-
+    {% include video.html param=page %}
     <p>
       {% if page.caption %}
         {{page.caption | markdownify}}

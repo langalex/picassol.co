@@ -1,6 +1,7 @@
 ---
 player: <iframe width="560" height="315" src="https://www.youtube.com/embed/flTBedrs8Jg" frameborder="0" allowfullscreen></iframe>
 url: https://www.youtube.com/watch?v=flTBedrs8Jg
+youtube_video_id: flTBedrs8Jg
 layout: video
 date: '2015-10-05T00:00:00+02:00'
 tags:
