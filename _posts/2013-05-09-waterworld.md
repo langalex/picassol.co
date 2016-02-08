@@ -8,7 +8,7 @@ tags:
 - waterworld
 title: Waterworld
 ---
-<iframe width="560" height="315" src="http://www.youtube.com/embed/d7LAN_FB1Nc?rel=0" frameborder="0" allowfullscreen></iframe>
+<div class="video-container video-16-9"><iframe src="http://www.youtube.com/embed/d7LAN_FB1Nc?rel=0" frameborder="0" allowfullscreen></iframe></div>
 
 When it came out in 1995 the reviews were not very positive and on IMDB it only got a 5.9 rating. The film Waterworld ist set in a time when the pole caps have melted and everything is covered by water. People either live nomadic lives on their boats or in small floating communities. Resources are scarce, so attacks and raids are the norm. Our hero lives on his own sailing trimaran and at the beginning of the story stumbles into an adventure involving fighting the evil guys, rescuing a little girl and lots of sailing. It might not be the most innovative plot, but what the critics who gave these low ratings were clearly missing is a passion for boats. The boat in Waterworld is one of the most fascinating I have ever seen in a film and this is what this post is about.
 
@@ -25,7 +25,7 @@ The boat is a sloop, i.e. one main sail, one head sail. The sails seem to be mad
 
 In addition to using some preloaded weight the system can also be powered by a vertical wind turbine attached to the mast. This turbine is connected to all kinds of systems on the boat. In addition to sail handling it can drive the propeller, charge the batteries and power some sort of mast elevator that allows the mariner to get pulled up the mast within a few seconds. A truly innovative solution that I'm sure generates much more power than the small wind generators or solar panels of most boats today.
 
-<iframe width="560" height="315" src="http://www.youtube.com/embed/-kOEa-AvDWY?rel=0" frameborder="0" allowfullscreen></iframe>
+<div class="video-container video-16-9"><iframe src="http://www.youtube.com/embed/-kOEa-AvDWY?rel=0" frameborder="0" allowfullscreen></iframe></div>
 
 ## Cockpit
 
@@ -37,7 +37,7 @@ The boat has some sort of water maker that turns urine back into freshwater, but
 
 ![](http://media.tumblr.com/0617c1de48b1132084c75d1640ee09ff/tumblr_inline_mmj4j1l8w91qz4rgp.jpg)
 
-In addition there is a fixed harpoon at the bow and a small, hand-held one to take into the water. In order to catch fish - or rather a sea monster - the mariner jumps from the stern of the boat (attached to a line) and acts as bait for the monster. When the monster comes up he kills it with the hand-held harpoon and winches it on board - a practical solution that seems to work quite well. A bit more work than just pulling a small fishing line but the results speak for themselves. For cooking the monster there is a BBQ on board. 
+In addition there is a fixed harpoon at the bow and a small, hand-held one to take into the water. In order to catch fish - or rather a sea monster - the mariner jumps from the stern of the boat (attached to a line) and acts as bait for the monster. When the monster comes up he kills it with the hand-held harpoon and winches it on board - a practical solution that seems to work quite well. A bit more work than just pulling a small fishing line but the results speak for themselves. For cooking the monster there is a BBQ on board.
 
 ## Entertainment
 
@@ -48,5 +48,3 @@ A bit of a larger extra is the diving dome. The mariner can use this to take gue
 ## Conclusion
 
 All in all a fascinating boat with a few extras I would love to see on my own boat one day. If you are in any way interested in boats and I can highly recommend watching Waterworld.
-
-

@@ -6,6 +6,7 @@ player: '<iframe src="//player.vimeo.com/video/94842405?title=0&byline=0&portrai
   width="500" height="281" frameborder="0" title="Twenty Eight Feet: life on a little
   wooden boat" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>'
 url: https://vimeo.com/94842405
+vimeo_video_id: 94842405
 layout: video
 date: '2014-05-14T11:22:31+02:00'
 tags:

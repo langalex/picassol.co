@@ -13,6 +13,7 @@ player: '<iframe src="//player.vimeo.com/video/77252749?title=0&byline=0&portrai
   width="500" height="281" frameborder="0" title="Beyond the West Horizon: Trailer"
   webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>'
 url: https://vimeo.com/77252749
+vimeo_video_id: 77252749
 layout: video
 date: '2014-08-30T17:53:03+02:00'
 tags: []

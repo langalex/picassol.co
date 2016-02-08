@@ -26,12 +26,12 @@ Spinnaker hoist.
 
 ### Pogo 40 Trip North Sea 2014
 
-<iframe src="//player.vimeo.com/video/93882689" width="560" height="315" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/93882689">POGO 40 sailing trip</a></p>
+<div class="video-container video-16-9"><iframe src="//player.vimeo.com/video/93882689"  frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div> <p><a href="https://vimeo.com/93882689">POGO 40 sailing trip</a></p>
 
 ### Westerly Trailer
 
-<iframe src="//player.vimeo.com/video/52350438" width="560" height="315" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/52350438">Westerly trailer</a> - for a film I never finished.</p>
+<div class="video-container video-16-9"><iframe src="//player.vimeo.com/video/52350438" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div> <p><a href="https://vimeo.com/52350438">Westerly trailer</a> - for a film I never finished.</p>
 
 ### Sailing Greece 2010
 
-<iframe src="//player.vimeo.com/video/27836650" width="560" height="315" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/27836650">Sailing Greece 2010</a></p>
+<div class="video-container video-16-9"><iframe src="//player.vimeo.com/video/27836650" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div> <p><a href="https://vimeo.com/27836650">Sailing Greece 2010</a></p>

@@ -19,7 +19,7 @@ title: America's Cup World Series in Naples
 
 <p>
 
-    <iframe allowfullscreen="true" frameborder="0" height="315" src="http://www.youtube.com/embed/Y6dnOlE9sjk" width="420"></iframe>
+    <div class="video-container video-16-9"><iframe allowfullscreen="true" frameborder="0" src="http://www.youtube.com/embed/Y6dnOlE9sjk"></iframe></div>
 </p>
 
 <p>AC72 flying on foils.</p>

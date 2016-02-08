@@ -4,7 +4,13 @@
     </iframe>
   </div>
 {% else %}
-  {% if include.param.player %}
-    {{ include.param.player }}
+{% if include.param.vimeo_video_id %}
+  <div class="video-container video-16-9">
+    <iframe src="https://player.vimeo.com/video/{{include.param.vimeo_video_id}}" frameborder="0" allowfullscreen></iframe>
+  </div>
+  {% else %}
+    {% if include.param.player %}
+      {{ include.param.player }}
+    {% endif %}
   {% endif %}
 {% endif %}

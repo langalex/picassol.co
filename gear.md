@@ -10,7 +10,7 @@ The list is incomplete and contains links to products as well as ideas. I’m go
 
 ## Boats
 
-<iframe src="https://player.vimeo.com/video/75914453?color=fa2c07&portrait=0" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<div class="video-container video-16-9"><iframe src="https://player.vimeo.com/video/75914453?color=fa2c07&portrait=0" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
 
 [Pogo](http://www.pogostructures.com/) - lightweight, fast, minimal, unsinkable
 
@@ -18,7 +18,7 @@ The list is incomplete and contains links to products as well as ideas. I’m go
 
 [Bente 24](http://bente24.com/) - innovative 24ft design from Germany
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9XehLvfwloQ" frameborder="0" allowfullscreen></iframe>
+<div class="video-container video-16-9"><iframe  src="https://www.youtube.com/embed/9XehLvfwloQ" frameborder="0" allowfullscreen></iframe></div>
 
 [Seascape 27](http://www.thinkseascape.com/en/seascape-27/) - fast cruising
 
@@ -26,13 +26,13 @@ The list is incomplete and contains links to products as well as ideas. I’m go
 
 [Didi 950](http://dixdesign.com/didi950.htm) - beamy plywood dyi design
 
-<iframe frameborder="0" width="480" height="270" src="//www.dailymotion.com/embed/video/x2gr76t" allowfullscreen></iframe>
+<div class="video-container video-16-9"><iframe frameborder="0" src="//www.dailymotion.com/embed/video/x2gr76t" allowfullscreen></iframe></div>
 
 [RM Yachts](http://www.rm-yachts.com/en/home) - fast cruisers made out of plywood
 
 ## Boat bulding
 
-<iframe src="https://player.vimeo.com/video/125200663" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<div class="video-container video-16-9"><iframe src="https://player.vimeo.com/video/125200663"  frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 [Entropy Resins](http://www.entropyresins.eu/products-systems) - eco-friendly epoxy
 
@@ -42,7 +42,7 @@ Non-skid: [Kiwi Grip](http://senonskid.com/users/awp.php?ln=715388)
 
 ## Hull
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kD-nciWPAn0" frameborder="0" allowfullscreen></iframe>
+<div class="video-container video-16-9"><iframe src="https://www.youtube.com/embed/kD-nciWPAn0" frameborder="0" allowfullscreen></iframe></div>
 
 [Hempel Silic One](http://www.hempel.com/en/marine/underwater-hull/fouling-release) anti fouling - eco-friendly, silicone based antifouling
 
@@ -62,11 +62,11 @@ Soft loops instead of shackles and metal eyes
 
 [Dynex Dux](http://www.sailmagazine.com/boatworks/dynex-dux-across-atlantic) dyneema standing rigging - lighter and stronger than wire
 
-<iframe src="https://player.vimeo.com/video/105951489?portrait=0" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<div class="video-container video-16-9"><iframe src="https://player.vimeo.com/video/105951489?portrait=0" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
 
 [Pontos](http://pontos.fr) 4-speed winches
 
-<iframe src="https://player.vimeo.com/video/107277089" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<div class="video-container video-16-9"><iframe src="https://player.vimeo.com/video/107277089" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
 
 [Ino Block](http://ino-block.com/) lightweight plastic blocks
 
@@ -103,7 +103,7 @@ Soft loops instead of shackles and metal eyes
 
 [Torque Jet](http://www.torquejet.com/)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/k2psNmnACpY" frameborder="0" allowfullscreen></iframe>
+<div class="video-container video-16-9"><iframe src="https://www.youtube.com/embed/k2psNmnACpY" frameborder="0" allowfullscreen></iframe></div>
 
 [Torqueedo](http://www.torqeedo.com/) - electric outboards
 
@@ -184,6 +184,6 @@ distributed power system instead of single panel (shorter cables, easier to reco
 
 [X-Hose](http://www.officialxhose.co.uk) - expandable hose
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HcpT5Rf212U" frameborder="0" allowfullscreen></iframe>
+<div class="video-container video-16-9"><iframe src="https://www.youtube.com/embed/HcpT5Rf212U" frameborder="0" allowfullscreen></iframe></div>
 
 [The Scrubba](http://thescrubba.com) – outdoor washing "machine"
