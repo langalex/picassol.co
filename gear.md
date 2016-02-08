@@ -30,9 +30,9 @@ The list is incomplete and contains links to products as well as ideas. I’m go
 
 [RM Yachts](http://www.rm-yachts.com/en/home) - fast cruisers made out of plywood
 
-## Boat bulding
+## Boat building
 
-<div class="video-container video-16-9"><iframe src="https://player.vimeo.com/video/125200663"  frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<div class="video-container video-16-9"><iframe src="https://player.vimeo.com/video/125200663"  frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
 
 [Entropy Resins](http://www.entropyresins.eu/products-systems) - eco-friendly epoxy
 
@@ -162,7 +162,7 @@ distributed power system instead of single panel (shorter cables, easier to reco
 * hammock
 * bean bag
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T0GZXZoxMEA" frameborder="0" allowfullscreen></iframe>
+<div class="video-container video-16-9"><iframe src="https://www.youtube.com/embed/T0GZXZoxMEA" frameborder="0" allowfullscreen></iframe></div>
 
 [LED strips with velcro](http://cirnapro.com)
 
