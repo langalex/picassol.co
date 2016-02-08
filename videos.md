@@ -8,7 +8,7 @@ permalink: /videos/
 
 Here are the videos of me building the boat:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLHjKtS809N7cAypvX7Y4JNHkx9MlQ6w0J" frameborder="0" allowfullscreen></iframe>
+<div class="video-container video-16-9"><iframe  src="https://www.youtube.com/embed/videoseries?list=PLHjKtS809N7cAypvX7Y4JNHkx9MlQ6w0J" frameborder="0" allowfullscreen></iframe></div>
 
 ## Trips
 
@@ -16,11 +16,11 @@ Here are a few videos of sailing trips I've made over the years:
 
 ### Pogo 30 Trip Brittany 2014
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vZHuwSWj78Y" frameborder="0" allowfullscreen></iframe>
+<div class="video-container video-16-9"><iframe  src="https://www.youtube.com/embed/vZHuwSWj78Y" frameborder="0" allowfullscreen></iframe></div>
 
 Full trip.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jQ8xe0o-hP8" frameborder="0" allowfullscreen></iframe>
+<div class="video-container video-16-9"><iframe src="https://www.youtube.com/embed/jQ8xe0o-hP8" frameborder="0" allowfullscreen></iframe></div>
 
 Spinnaker hoist.
 

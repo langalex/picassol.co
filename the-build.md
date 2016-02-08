@@ -12,7 +12,7 @@ Currently I'm building a small sailing yacht from the same materials. For that I
 
 The boat is a [Mini 6.50](https://en.wikipedia.org/wiki/Mini_Transat_6.50), ocean-going, 6.50m long and 3m wide. It planes very easily, which means it can go a lot faster than its hull speed. By adding a 2.50m long bowsprit, the boat effectively becomes 8m long, which means it can carry a crazy amount of sail area. It's an extreme boat, design for racing and fun. Not your average cruiser.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zxJjbqEhPgc" frameborder="0" allowfullscreen></iframe>
+<div class="video-container video-16-9"><iframe src="https://www.youtube.com/embed/zxJjbqEhPgc" frameborder="0" allowfullscreen></iframe></div>
 
 ## Progress
 
@@ -22,17 +22,17 @@ The plan is to start building as soon as the kit arrives, and to get the boat in
 
 I'm using a [trello board](https://trello.com/b/uwbur9lh/boat-building) to track my progress.
 
-<iframe src="https://trello.com/b/uwbur9lh.html" width="100%" height="400" frameborder="0" border="0"></iframe>
+<div class="video-container video-4-3"><iframe src="https://trello.com/b/uwbur9lh.html" frameborder="0" border="0"></iframe></div>
 
 ## Videos
 
 I'm documenting the build process in shortish video clips published on [YouTube](https://www.youtube.com/channel/UCVMAbol8WFY2G8kvdy48nIg) and [Vimeo](https://vimeo.com/album/3365426), explaining what I do, what the problems are and how I overcome them. I think I'm the first to do that with a proect this size – at least I haven't found anyone else so far.
 
-<iframe src="http://www.youtube.com/embed/?listType=user_uploads&list=langalex" width="100%" height="400"></iframe>
+<div class="video-container video-16-9"><iframe src="http://www.youtube.com/embed/?listType=user_uploads&list=langalex"></iframe></div>
 
 ## Photos
 
-Photos are on [Facebook](https://www.facebook.com/picassol/photos_stream) and [Flickr](https://www.flickr.com/photos/langalex/sets/72157650737312316/). 
+Photos are on [Facebook](https://www.facebook.com/picassol/photos_stream) and [Flickr](https://www.flickr.com/photos/langalex/sets/72157650737312316/).
 
 ## Cost
 
