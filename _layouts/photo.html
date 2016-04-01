@@ -8,7 +8,12 @@ layout: default
   </header>
 
   <div class="post-content">
-    <p>{{ page.caption | markdownify }}</p>
+    {% if page.caption %}
+      <p>{{ page.caption | markdownify }}</p>
+    {% endif %}
+    {% if content %}
+      {{ content }}
+    {% endif %}
     {% for photo in page.photos %}
       <div class="photo">
         <img src="{{photo.url}}">
