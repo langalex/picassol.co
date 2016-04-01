@@ -24,7 +24,7 @@ photos:
   caption: 'cabin back side'
 - url: "/photos/kit-13.jpg"
   caption: 'not sure yet'
-photo: "/photos/kit-14.jpg"
+photo: "/photos/kit-6.jpg"
 layout: photo
 date: '2016-04-01T21:57:00+02:00'
 tags:
@@ -36,7 +36,7 @@ tags:
 title: Did Mini MK3 kit - which part goes where
 ---
 
-The kit for my mini came without any instructions. It took me a whole day to figure out which part goes where. I made a list. Maybe it'll help somebody else one day.
+The kit for my Mini 650 came without any instructions. It took me a whole day to figure out which part goes where. I made a list. Maybe it'll help somebody else one day.
 
 Not included in the kit:
 
