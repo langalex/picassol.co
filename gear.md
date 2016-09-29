@@ -40,6 +40,9 @@ The list is incomplete and contains links to products as well as ideas. I’m go
 
 Non-skid: [Kiwi Grip](http://senonskid.com/users/awp.php?ln=715388)
 
+![Carbon Erector](/photos/erector.png)
+[Carbon Erector](https://www.rockwestcomposites.com/accessories/carbon-erector) - system for creating carbon fiber structures (pushpit/pulpit etc.)
+
 ## Hull
 
 <div class="video-container video-16-9"><iframe src="https://www.youtube.com/embed/kD-nciWPAn0" frameborder="0" allowfullscreen></iframe></div>
