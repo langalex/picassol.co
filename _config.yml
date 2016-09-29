@@ -11,3 +11,4 @@ youtube_channel_url: "https://www.youtube.com/channel/UCkALdGwfCY_CDQNQ-tHz1AQ"
 encoding: utf-8
 markdown: kramdown
 paginate: 15
+gems: [jekyll-paginate]
