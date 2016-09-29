@@ -4,6 +4,17 @@ title: Gear
 permalink: /gear/
 ---
 
+## Rig needed
+
+I'm looking for an affordable/used Mini 650 rig:
+
+* carbon fiber mast, boom
+* sails
+
+Contact me if you know anything (contact details in the footer).
+
+## Introduction
+
 The following is a list of gear other people have recommended or that I have discovered and found worth remembering. Of course, all gear is only a means to an end so I don’t want to focus on it too much, but if I’m going to sail across oceans I want to rely on things that work.
 
 The list is incomplete and contains links to products as well as ideas. I’m going to fill the gaps and add stuff over time.
