@@ -134,8 +134,12 @@ distributed power system instead of single panel (shorter cables, easier to reco
 
 ### Batteries
 
-* Lithium Ion batteries - 1/3 weight, charge faster, can be discharged more, high initial investment but total cost not that much higher due to longer life expectancy
-* smart fridge controller: cools max when engine on, saves up to 30% power
+#### Lithium Ion batteries
+
+1/3 weight, charge faster, can be discharged more, high initial investment but total cost not that much higher due to longer life expectancy
+
+* [Torqeedo](http://www.torqeedo.com/en/products/batteries/power-26-104/2103-00.html)
+* [SUPER B](http://www.super-b.com/en/)
 
 ## Shelter
 
