@@ -39,9 +39,11 @@ The list is incomplete and contains links to products as well as ideas. I’m go
 ## Deck
 
 ![Kiwi Grip](/photos/kiwigrip.png)
+
 Non-skid: [Kiwi Grip](http://www.pyiinc.com/KiwiGrip/)
 
 ![Carbon Erector](/photos/erector.png)
+
 [Carbon Erector](https://www.rockwestcomposites.com/accessories/carbon-erector) - system for creating carbon fiber structures (pushpit/pulpit etc.)
 
 ## Hull
@@ -103,13 +105,9 @@ Soft loops instead of shackles and metal eyes
 
 ## Propulsion
 
-![Torque Jet](/photos/torquejet.jpg)
+![Torqeedo Pod](/photos/torqeedo-pod.png)
 
-[Torque Jet](http://www.torquejet.com/)
-
-<div class="video-container video-16-9"><iframe src="https://www.youtube.com/embed/k2psNmnACpY" frameborder="0" allowfullscreen></iframe></div>
-
-[Torqueedo](http://www.torqeedo.com/) - electric outboards
+[Torqueedo Pod](http://www.torqeedo.com/en/products/pod-drives)
 
 ![Propulsor](/photos/propulsor.png)
 
