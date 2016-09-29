@@ -23,7 +23,7 @@ photos:
 - url: "/photos/kit-11.jpg"
   caption: 'cabin back side'
 - url: "/photos/kit-13.jpg"
-  caption: 'not sure yet'
+  caption: 'cockpit floor'
 photo: "/photos/kit-6.jpg"
 layout: photo
 date: '2016-04-01T21:57:00+02:00'
