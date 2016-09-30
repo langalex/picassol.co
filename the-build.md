@@ -10,9 +10,7 @@ Currently I'm building a sailing yacht from the same materials. For that I've sc
 
 ## The Boat
 
-The boat is a [Mini 6.50](https://en.wikipedia.org/wiki/Mini_Transat_6.50), ocean-going, 6.50m long and 3m wide. It planes very easily, which means it can go a lot faster than its hull speed. By adding a 2.50m long bowsprit, the boat effectively becomes 8m long, which means it can carry a crazy amount of sail area. It's an extreme boat, designed for racing and fun. Not your average cruiser.
-
-<div class="video-container video-16-9"><iframe src="https://www.youtube.com/embed/zxJjbqEhPgc" frameborder="0" allowfullscreen></iframe></div>
+The boat is a [Mini 6.50](https://en.wikipedia.org/wiki/Mini_Transat_6.50), ocean-going, 6.50m long and 3m wide. It planes very easily, which means it can go a lot faster than its hull speed. By adding a 2.50m long bowsprit, the boat effectively becomes 8m long, which means it can carry a crazy amount of sail area. It's an extreme boat, designed for racing and fun. Not your average cruiser. Here's a [video about the latest Mini from Pogo Structures, the Pogo 3](https://www.youtube.com/watch/zxJjbqEhPgc).
 
 ## Progress
 
@@ -35,7 +33,7 @@ I'm documenting the build process on [YouTube](https://www.youtube.com/channel/U
 <div id="fb-photos" class="photo-gallery"></div>
 <script src="/js/fb_photos.js"></script>
 
-More photos are on [Facebook](https://www.facebook.com/picassol/photos_stream) and [Flickr](https://www.flickr.com/photos/langalex/sets/72157650737312316/).
+More photos are on [Facebook](https://www.facebook.com/picassol/photos_stream).
 
 ## Cost
 

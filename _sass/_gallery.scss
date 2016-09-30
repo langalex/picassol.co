@@ -1,9 +1,15 @@
 .photo-gallery {
-  display: flex;
-  flex-direction: row;
-  flex-wrap: wrap;
-  align-content: flex-start;
-  justify-content: flex-start;
+  .photo-group-title {
+
+  }
+
+  .photos-container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-content: flex-start;
+    justify-content: flex-start;
+  }
 
   .photo-container {
     max-width: 45%;
