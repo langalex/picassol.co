@@ -1,0 +1,20 @@
+.photo-gallery {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-content: flex-start;
+  justify-content: flex-start;
+
+  .photo-container {
+    max-width: 45%;
+    margin-bottom: 1rem;
+    margin-right: 1rem;
+  }
+
+  .photo-image {
+    max-width: 100%;
+  }
+  .photo-caption {
+    margin-top: .5rem;
+  }
+}
