@@ -60,10 +60,9 @@
   }
 
   function findGroup(groups, time) {
-    if(groups.length === 0) { return; }
-    var FIVE_MINUTES = 5 * 60 * 1000, i;
+    var i;
     for(i in groups) {
-      if(Math.abs(new Date(groups[i][0].created_time) - new Date(time)) < FIVE_MINUTES) {
+      if(groups[i][0].created_time.substr(0, 10) === time.substr(0, 10)) {
         return groups[i];
       }
     }
