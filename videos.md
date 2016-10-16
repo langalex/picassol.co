@@ -10,6 +10,8 @@ Here are the videos of me building the boat:
 
 <div class="video-container video-16-9"><iframe  src="https://www.youtube.com/embed/videoseries?list=PLHjKtS809N7cAypvX7Y4JNHkx9MlQ6w0J" frameborder="0" allowfullscreen></iframe></div>
 
+See [all boat building videos](/boat-building-videos).
+
 ## Trips
 
 Here are a few videos of sailing trips I've made over the years:
