@@ -1,3 +1,12 @@
+---
+layout: text
+date: '2017-10-28T19:15:00+02:00'
+tags:
+- sails
+- minimal
+title: Composite chainplates
+---
+
 Reality Check
 
 As can be seen on the [gear page](/gear), I have a long wishlist of stuff to put on my boat. From a carbon fiber rig, over an electric motor to a fancy autopilot that can surf down waves while the spinnaker is up.
