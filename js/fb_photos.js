@@ -1,6 +1,6 @@
 (function() {
   'use strict';
-  var url = 'https://graph.facebook.com/v2.7/picassol/photos?limit=20&fields=created_time,images,name,link&type=uploaded&access_token=335193203496689|xhM9yugkBpN8KBuibdZBsVm0vdY';
+  var url = 'https://graph.facebook.com/v3.1/picassol/photos?limit=20&fields=created_time,images,name,link&type=uploaded&access_token=335193203496689|xhM9yugkBpN8KBuibdZBsVm0vdY';
   var container = document.getElementById('fb-photos');
 
   loadPhotos();
